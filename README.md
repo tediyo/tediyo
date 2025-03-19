@@ -9,13 +9,13 @@ Here are some ideas to get you started:
 
 -->
 <h1 align="center">Hi 👋, I'm Tewodros Berhanu</h1>
-<h3 align="center">A passionate Software Engineer Specialized in Web Development</h3>
+<h3 align="center">A passionate Software Engineer Specialized in Development and Qa Testing</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tediyo&label=Profile%20views&color=0e75b6&style=flat" alt="tediyo" /> </p>
 
 - 🔭 I’m currently working on [Tracer Study Web Application](https://tracerbdr.000webhostapp.com/admin)
 
-- 👯 I have successfully completed **Mudie Ecommerce Platform**
+- 👯 I have successfully completed **Custom Ecommerce Platform**
 
 - 👨‍💻 All of my projects are available at [thedron16.netlify.app](thedron16.netlify.app)
 
