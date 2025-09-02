@@ -48,14 +48,28 @@
 ---
 
 ### 🧪 Test Automation
+### 🧪 Test Automation & QA
 <p align="left">
-<img src="https://www.vectorlogo.zone/logos/selenium/selenium-icon.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/cypress.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/appium.svg" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/postman/postman-icon.svg" width="40" height="40"/>
-<img src="https://avatars.githubusercontent.com/u/3221291?s=200&v=4" width="40" height="40"/> <!-- BrowserStack -->
-<img src="https://avatars.githubusercontent.com/u/8908513?s=200&v=4" width="40" height="40"/> <!-- SauceLabs -->
+  <!-- Selenium -->
+  <img src="https://www.vectorlogo.zone/logos/selenium/selenium-icon.svg" width="40" height="40"/>
+  <!-- Cypress -->
+  <img src="https://raw.githubusercontent.com/cypress-io/cypress-icons/master/src/logo/cypress-io-logo-round.svg" width="40" height="40"/>
+  <!-- Appium -->
+  <img src="https://appium.io/docs/en/latest/assets/images/appium-logo.svg" width="40" height="40"/>
+  <!-- Postman -->
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40"/>
+  <!-- Newman -->
+  <img src="https://avatars.githubusercontent.com/u/3221291?s=200&v=4" width="40" height="40"/> <!-- Newman -->
+  <!-- Jest -->
+  <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" width="40" height="40"/>
+  <!-- JUnit -->
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/junit.svg" width="40" height="40"/>
+  <!-- BrowserStack -->
+  <img src="https://www.browserstack.com/images/static/header-logo.jpg" width="80" height="40"/>
+  <!-- Sauce Labs -->
+  <img src="https://avatars.githubusercontent.com/u/8908513?s=200&v=4" width="40" height="40"/>
 </p>
+
 
 
 ---
