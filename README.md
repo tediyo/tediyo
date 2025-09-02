@@ -1,6 +1,6 @@
 <!-- Profile README -->
 
-<h1 align="center">Hi 👋, I'm Tewodros Berhanu</h1>
+<h1 align="center"> Tewodros Berhanu</h1>
 <h3 align="center">🚀 Software Engineer | Frontend Dev | QA Tester</h3>
 
 <p align="center">
@@ -10,17 +10,16 @@
   <a href="https://linkedin.com/in/tewodros-berhanu-953750230/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Tewodros%20Berhanu-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="https://thedron16.netlify.app" target="_blank">
+<!--   <a href="https://thedron16.netlify.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-thedron16.netlify.app-green?style=for-the-badge&logo=firefox" />
-  </a>
+  </a> -->
 </p>
 
 ---
 
 ### 🌟 About Me
 - 🔭 Currently working on **Tracer Study Web Application**  
-- 👯 Completed **Custom Ecommerce Platform**  
-- 🧑‍💻 Explore all my projects at [thedron16.netlify.app](https://thedron16.netlify.app)  
+- 👯 Completed **Custom Ecommerce Platform**    
 - 📝 Writing about dev & QA on my blog  
 - 📫 Reach me at **tewodrosberhanu19@gmail.com**
 
