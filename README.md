@@ -73,9 +73,14 @@
 
 
 ---
-### 📈 Contribution GGggggggggggggggggggggggggggggggggggggggggggggggraph
+### 📈 Contribution Graph
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=tediyo&theme=tokyo-night&hide_border=true" alt="contribution graph" />
+</p>
+### Stat Card
+<p align="center">
+  <!-- Total Contributions Card -->
+  <img src="https://github-readme-stats.vercel.app/api?username=tediyo&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight" alt="total contributions" />
 </p>
 ### 📊 GitHub Stats
 <p align="center">
