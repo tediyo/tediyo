@@ -45,6 +45,30 @@
 </p>
 
 ---
+---
+
+### 🧪 QA Experience & Highlights
+- ✅ Performed **functional, regression, and performance testing** on web & mobile apps  
+- ✅ Automated **UI, API, and cross-browser tests** using Selenium, Cypress & Appium  
+- ✅ Conducted **API testing & monitoring** with Postman + Newman  
+- ✅ Hands-on with **CI/CD pipelines** for automated test execution  
+- ✅ Experienced in **cloud-based testing** using BrowserStack & Sauce Labs  
+- ✅ Ensured **UI/UX consistency and accessibility compliance** across devices  
+
+---
+
+### 🚀 QA Projects
+<p align="center">
+  <a href="https://github.com/tediyo/lersha-testing">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tediyo&repo=lersha-testing&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/tediyo/qa-automation-suite">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tediyo&repo=qa-automation-suite&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/tediyo/api-testing-postman">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tediyo&repo=api-testing-postman&theme=tokyonight" />
+  </a>
+</p>
 
 ### 🧪 Test Automation
 ### 🧪 Test Automation & QA
