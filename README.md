@@ -56,19 +56,26 @@
 - ✅ Ensured **UI/UX consistency and accessibility compliance** across devices  
 
 ---
+---
 
-### 🚀 QA Projects
-<p align="center">
-  <a href="https://github.com/tediyo/lersha-testing">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tediyo&repo=lersha-testing&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/tediyo/qa-automation-suite">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tediyo&repo=qa-automation-suite&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/tediyo/api-testing-postman">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tediyo&repo=api-testing-postman&theme=tokyonight" />
-  </a>
-</p>
+### 🧪 QA Projects
+| Project | Description | Tools & Frameworks | Link |
+|---------|-------------|--------------------|------|
+| **Lersha Testing** | Functional, regression & performance testing for Lersha platform | Selenium, Postman, Appium, Newman | [Repo](https://github.com/tediyo/lersha-testing) |
+| **QA Automation Suite** | End-to-end automation framework for web apps | Cypress, Jest, BrowserStack | [Repo](https://github.com/tediyo/qa-automation-suite) |
+| **API Testing Collection** | Automated API tests & monitoring | Postman, Newman, CI/CD | [Repo](https://github.com/tediyo/api-testing-postman) |
+
+###
+---
+
+### 📝 Sample Test Case Design
+
+| Test Case ID | Title | Precondition | Steps | Expected Result |
+|--------------|-------|--------------|-------|----------------|
+| TC_001 | Login with valid credentials | User has a valid account | 1. Go to login page <br> 2. Enter valid email <br> 3. Enter valid password <br> 4. Click "Login" | User should be redirected to dashboard |
+| TC_002 | Login with invalid password | User has a valid account | 1. Go to login page <br> 2. Enter valid email <br> 3. Enter wrong password <br> 4. Click "Login" | Error message “Invalid credentials” should be displayed |
+| TC_003 | API response validation | API server is running | 1. Send GET request to `/users` endpoint | Response code `200`, JSON schema is valid, and response time < 1s |
+
 
 ### 🧪 Test Automation
 ### 🧪 Test Automation & QA
