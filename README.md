@@ -54,16 +54,36 @@
 
 ## 🎯 My Projects
 
-<details>
-  <summary>💻 Development Projects</summary>
+## 💻 Development Projects  
 
-| Project | Description | Tech Stack | Link |
-|---------|-------------|------------|------|
-| **E-commerce Platform** | Custom online shop with payment integration | Next.js, MongoDB, Tailwind | [Repo](https://github.com/tediyo/ecommerce-platform) |
-| **Via Ride App** | Ride-hailing mobile app | React Native, Firebase | [Repo](https://github.com/tediyo/via-ride) |
-| **Tracer Study** | University alumni tracer platform | Laravel, MySQL, React | [Repo](https://github.com/tediyo/tracer-study) |
+<p align="center">
+  <a href="https://github.com/tediyo/ecommerce-platform">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tediyo&repo=ecommerce-platform&theme=radical&show_owner=true" />
+  </a>
+  <a href="https://github.com/tediyo/tracer-study">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tediyo&repo=tracer-study&theme=radical&show_owner=true" />
+  </a>
+  <a href="https://github.com/tediyo/via-ride">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tediyo&repo=via-ride&theme=radical&show_owner=true" />
+  </a>
+</p>
 
-</details>
+---
+
+## 🧪 QA Projects  
+
+<p align="center">
+  <a href="https://github.com/tediyo/lersha-testing">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tediyo&repo=lersha-testing&theme=tokyonight&show_owner=true" />
+  </a>
+  <a href="https://github.com/tediyo/qa-automation-suite">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tediyo&repo=qa-automation-suite&theme=tokyonight&show_owner=true" />
+  </a>
+  <a href="https://github.com/tediyo/api-testing-postman">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tediyo&repo=api-testing-postman&theme=tokyonight&show_owner=true" />
+  </a>
+</p>
+
 
 <details>
   <summary>🧪 QA Projects</summary>
