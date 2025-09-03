@@ -45,6 +45,36 @@
 </p>
 
 ---
+---
+
+### 🧪 QA Experience & Highlights
+- ✅ Performed **functional, regression, and performance testing** on web & mobile apps  
+- ✅ Automated **UI, API, and cross-browser tests** using Selenium, Cypress & Appium  
+- ✅ Conducted **API testing & monitoring** with Postman + Newman  
+- ✅ Hands-on with **CI/CD pipelines** for automated test execution  
+- ✅ Experienced in **cloud-based testing** using BrowserStack & Sauce Labs  
+- ✅ Ensured **UI/UX consistency and accessibility compliance** across devices  
+
+---
+---
+
+### 🧪 QA Projects
+| Project | Description | Tools & Frameworks | Link |
+|---------|-------------|--------------------|------|
+| **Lersha Testing** | Functional, regression & performance testing for Lersha platform | Selenium, Postman, Appium, Newman | [Repo](https://github.com/tediyo/lersha-testing) |
+| **QA Automation Suite** | End-to-end automation framework for web apps | Cypress, Jest, BrowserStack | [Repo](https://github.com/tediyo/qa-automation-suite) |
+| **API Testing Collection** | Automated API tests & monitoring | Postman, Newman, CI/CD | [Repo](https://github.com/tediyo/api-testing-postman) |
+
+---
+
+### 📝 Sample Test Case Design
+
+| Test Case ID | Test Case Description | Precondition | Valid Data | Input | Steps | Expected Result | Postcondition | Actual Result | Status | Remark | Tester | Developer |
+|--------------|-----------------------|--------------|------------|-------|-------|----------------|---------------|---------------|--------|--------|--------|-----------|
+| TC_001 | Login with valid credentials | User has a valid account | Email: user@test.com <br> Password: 123456 | Entered via login form | 1. Go to login page <br> 2. Enter valid email <br> 3. Enter valid password <br> 4. Click "Login" | User is redirected to dashboard | User session is created | As expected | ✅ Pass | - | Tewodros | Dev A |
+| TC_002 | Login with invalid password | User has a valid account | Email: user@test.com <br> Password: wrong123 | Entered via login form | 1. Go to login page <br> 2. Enter valid email <br> 3. Enter invalid password <br> 4. Click "Login" | Error message “Invalid credentials” is displayed | No session created | As expected | ✅ Pass | - | Tewodros | Dev A |
+| TC_003 | API response validation for `/users` | API server running | Endpoint: `/users` <br> Method: GET | API request from Postman | 1. Send GET request to `/users` <br> 2. Validate schema <br> 3. Measure response time | Response code 200, schema valid, response time < 1s | Response log generated | Response: 200, valid schema, 800ms | ✅ Pass | Performance OK | Tewodros | Dev B |
+| TC_004 | Invalid email format validation | Login page available | Email: test@ <br> Password: 123456 | Entered via login form | 1. Go to login page <br> 2. Enter invalid email format <br> 3. Enter password <br> 4. Click "Login" | Error message “Invalid email format” | No session created | Error displayed correctly | ✅ Pass | Validation working fine | Tewodros | Dev A |
 
 ### 🧪 Test Automation
 ### 🧪 Test Automation & QA
