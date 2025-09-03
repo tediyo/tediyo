@@ -1,158 +1,270 @@
 <!-- Profile README -->
 
-<h1 align="center"> Tewodros Berhanu</h1>
-<h3 align="center">🚀 Software Engineer | Frontend Dev | QA Tester</h3>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D4FF&center=true&vCenter=true&width=435&lines=Hello+World!+%F0%9F%91%8B;I'm+Tewodros+Berhanu;Software+Engineer+%7C+Frontend+Dev+%7C+QA+Tester;Welcome+to+my+GitHub+Profile!+%F0%9F%8E%89" alt="Typing SVG" />
+</div>
 
-<p align="center">
+<h1 align="center">🚀 Tewodros Berhanu</h1>
+<h3 align="center">💻 Software Engineer | 🎨 Frontend Dev | 🧪 QA Tester</h3>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=tediyo&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/tediyo?label=Followers&style=social" alt="GitHub followers" />
+</div>
+
+---
+
+<div align="center">
   <a href="mailto:tewodrosberhanu19@gmail.com">
-    <img src="https://img.shields.io/badge/Email-tewodrosberhanu19%40gmail.com-red?style=for-the-badge&logo=gmail" />
+    <img src="https://img.shields.io/badge/Email-tewodrosberhanu19%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/tewodros-berhanu-953750230/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Tewodros%20Berhanu-blue?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-Tewodros%20Berhanu-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-<!--   <a href="https://thedron16.netlify.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-thedron16.netlify.app-green?style=for-the-badge&logo=firefox" />
-  </a> -->
-</p>
+  <a href="https://tracerbdr.000webhostapp.com/admin" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Tracer%20Study-green?style=for-the-badge&logo=firefox&logoColor=white" />
+  </a>
+</div>
 
 ---
 
-### 🌟 About Me
-- 🔭 Currently working on **Tracer Study Web Application**  
-- 👯 Completed **Custom Ecommerce Platform**    
-- 📝 Writing about dev & QA on my blog  
-- 📫 Reach me at **tewodrosberhanu19@gmail.com**
+## 🌟 About Me
+
+<div align="center">
+  <img src="https://github.com/tediyo/tediyo/blob/main/assets/coding.gif" width="300" height="200" alt="Coding Animation" />
+</div>
+
+- 🔭 **Currently working on:** Tracer Study Web Application  
+- 👯 **Recently completed:** Custom Ecommerce Platform    
+- 📝 **Writing about:** Dev & QA on my blog  
+- 📫 **Reach me at:** tewodrosberhanu19@gmail.com
+- ⚡ **Fun fact:** I love debugging more than coding! 🐛
 
 ---
 
-### 🛠️ Languages, Frameworks & Tools
-<p align="left">
-<!-- Dev stack -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" height="40"/>
-</p>
+## 🛠️ Tech Stack & Tools
 
----
----
+### 💻 Programming Languages
+<div align="center">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+</div>
 
-### 🧪 QA Experience & Highlights
-- ✅ Performed **functional, regression, and performance testing** on web & mobile apps  
-- ✅ Automated **UI, API, and cross-browser tests** using Selenium, Cypress & Appium  
-- ✅ Conducted **API testing & monitoring** with Postman + Newman  
-- ✅ Hands-on with **CI/CD pipelines** for automated test execution  
-- ✅ Experienced in **cloud-based testing** using BrowserStack & Sauce Labs  
-- ✅ Ensured **UI/UX consistency and accessibility compliance** across devices  
+### 🎨 Frontend Development
+<div align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+</div>
 
----
----
+### ⚙️ Backend & Database
+<div align="center">
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+</div>
 
-### 🧪 QA Projects
-| Project | Description | Tools & Frameworks | Link |
-|---------|-------------|--------------------|------|
-| **Lersha Testing** | Functional, regression & performance testing for Lersha platform | Selenium, Postman, Appium, Newman | [Repo](https://github.com/tediyo/lersha-testing) |
-| **QA Automation Suite** | End-to-end automation framework for web apps | Cypress, Jest, BrowserStack | [Repo](https://github.com/tediyo/qa-automation-suite) |
-| **API Testing Collection** | Automated API tests & monitoring | Postman, Newman, CI/CD | [Repo](https://github.com/tediyo/api-testing-postman) |
-
----
-
-### 📝 Sample Test Case Design
-
-| Test Case ID | Test Case Description | Precondition | Valid Data | Input | Steps | Expected Result | Postcondition | Actual Result | Status | Remark | Tester | Developer |
-|--------------|-----------------------|--------------|------------|-------|-------|----------------|---------------|---------------|--------|--------|--------|-----------|
-| TC_001 | Login with valid credentials | User has a valid account | Email: user@test.com <br> Password: 123456 | Entered via login form | 1. Go to login page <br> 2. Enter valid email <br> 3. Enter valid password <br> 4. Click "Login" | User is redirected to dashboard | User session is created | As expected | ✅ Pass | - | Tewodros | Dev A |
-| TC_002 | Login with invalid password | User has a valid account | Email: user@test.com <br> Password: wrong123 | Entered via login form | 1. Go to login page <br> 2. Enter valid email <br> 3. Enter invalid password <br> 4. Click "Login" | Error message “Invalid credentials” is displayed | No session created | As expected | ✅ Pass | - | Tewodros | Dev A |
-| TC_003 | API response validation for `/users` | API server running | Endpoint: `/users` <br> Method: GET | API request from Postman | 1. Send GET request to `/users` <br> 2. Validate schema <br> 3. Measure response time | Response code 200, schema valid, response time < 1s | Response log generated | Response: 200, valid schema, 800ms | ✅ Pass | Performance OK | Tewodros | Dev B |
-| TC_004 | Invalid email format validation | Login page available | Email: test@ <br> Password: 123456 | Entered via login form | 1. Go to login page <br> 2. Enter invalid email format <br> 3. Enter password <br> 4. Click "Login" | Error message “Invalid email format” | No session created | Error displayed correctly | ✅ Pass | Validation working fine | Tewodros | Dev A |
-
-### 🧪 Test Automation
-### 🧪 Test Automation & QA
-<p align="left">
-  <!-- Selenium -->
-  <img src="https://www.vectorlogo.zone/logos/selenium/selenium-icon.svg" width="40" height="40"/>
-  <!-- Cypress -->
-  <img src="https://raw.githubusercontent.com/cypress-io/cypress-icons/master/src/logo/cypress-io-logo-round.svg" width="40" height="40"/>
-  <!-- Appium -->
-  <img src="https://appium.io/docs/en/latest/assets/images/appium-logo.svg" width="40" height="40"/>
-  <!-- Postman -->
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40"/>
-  <!-- Newman -->
-  <img src="https://avatars.githubusercontent.com/u/3221291?s=200&v=4" width="40" height="40"/> <!-- Newman -->
-  <!-- Jest -->
-  <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" width="40" height="40"/>
-  <!-- JUnit -->
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/junit.svg" width="40" height="40"/>
-  <!-- BrowserStack -->
-  <img src="https://www.browserstack.com/images/static/header-logo.jpg" width="80" height="40"/>
-  <!-- Sauce Labs -->
-  <img src="https://avatars.githubusercontent.com/u/8908513?s=200&v=4" width="40" height="40"/>
-</p>
-
-
-
----
-### 📈 Contribution Graph
-### 📈 Contribution Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tediyo&theme=tokyo-night&hide_border=true&area=true&custom_title=My%20Contributions" />
-</p>
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tediyo&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tediyo&theme=tokyonight" />
-</p>
-
-### Stat Card
-<p align="center">
-  <!-- Total Contributions Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=tediyo&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight" alt="total contributions" />
-</p>
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tediyo&show_icons=true&theme=tokyonight" alt="stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tediyo&theme=tokyonight" alt="streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tediyo&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="langs" />
-</p>
+### 🧪 QA & Testing Tools
+<div align="center">
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" />
+  <img src="https://img.shields.io/badge/Appium-000000?style=for-the-badge&logo=appium&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=jest&logoColor=white" />
+</div>
 
 ---
 
-### 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=tediyo&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="trophies" />
-</p>
+## 🧪 QA Experience & Highlights
+
+<div align="center">
+  <img src="https://github.com/tediyo/tediyo/blob/main/assets/testing.gif" width="300" height="200" alt="Testing Animation" />
+</div>
+
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <strong>🎯 Testing Types</strong><br/>
+      ✅ Functional Testing<br/>
+      ✅ Regression Testing<br/>
+      ✅ Performance Testing<br/>
+      ✅ Cross-browser Testing
+    </td>
+    <td align="center" width="50%">
+      <strong>🔧 Automation Tools</strong><br/>
+      ✅ Selenium WebDriver<br/>
+      ✅ Cypress Framework<br/>
+      ✅ Appium Mobile Testing<br/>
+      ✅ API Testing with Postman
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <strong>☁️ Cloud Platforms</strong><br/>
+      ✅ BrowserStack<br/>
+      ✅ Sauce Labs<br/>
+      ✅ CI/CD Pipelines<br/>
+      ✅ Newman Integration
+    </td>
+    <td align="center" width="50%">
+      <strong>🎨 Quality Assurance</strong><br/>
+      ✅ UI/UX Consistency<br/>
+      ✅ Accessibility Compliance<br/>
+      ✅ Cross-device Testing<br/>
+      ✅ Performance Monitoring
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 🚀 Featured Projects
-<p align="center">
+## 🚀 Featured Projects
+
+<div align="center">
   <a href="https://tracerbdr.000webhostapp.com/admin">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tediyo&repo=tracer-study&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tediyo&repo=tracer-study&theme=tokyonight&hide_border=true" />
   </a>
   <a href="https://thedron16.netlify.app">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tediyo&repo=ecommerce-platform&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tediyo&repo=ecommerce-platform&theme=tokyonight&hide_border=true" />
   </a>
-</p>
+</div>
 
 ---
 
-### 🌐 Connect with Me
-<p align="center">
-  <a href="https://dev.to/thedron16" target="_blank"><img src="https://skillicons.dev/icons?i=devto" /></a>
-  <a href="https://linkedin.com/in/tewodros-berhanu-953750230/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="https://instagram.com/thedron_16" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" /></a>
-</p>
+## 🧪 QA Projects Showcase
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="33%">
+        <strong>🔍 Lersha Testing</strong><br/>
+        <img src="https://img.shields.io/badge/Status-Completed-brightgreen?style=flat-square" />
+        <br/>
+        <em>Functional, regression & performance testing</em><br/>
+        <a href="https://github.com/tediyo/lersha-testing">
+          <img src="https://img.shields.io/badge/View-Repository-blue?style=flat-square" />
+        </a>
+      </td>
+      <td align="center" width="33%">
+        <strong>🤖 QA Automation Suite</strong><br/>
+        <img src="https://img.shields.io/badge/Status-Active-yellow?style=flat-square" />
+        <br/>
+        <em>End-to-end automation framework</em><br/>
+        <a href="https://github.com/tediyo/qa-automation-suite">
+          <img src="https://img.shields.io/badge/View-Repository-blue?style=flat-square" />
+        </a>
+      </td>
+      <td align="center" width="33%">
+        <strong>🔌 API Testing Collection</strong><br/>
+        <img src="https://img.shields.io/badge/Status-Completed-brightgreen?style=flat-square" />
+        <br/>
+        <em>Automated API tests & monitoring</em><br/>
+        <a href="https://github.com/tediyo/api-testing-postman">
+          <img src="https://img.shields.io/badge/View-Repository-blue?style=flat-square" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tediyo&theme=tokyo-night&hide_border=true&area=true&custom_title=My%20Contributions%20This%20Year&radius=16" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tediyo&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&custom_title=My%20GitHub%20Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tediyo&theme=tokyonight&hide_border=true&stroke=0000&background=0D1117&ring=5BCDEC&fire=5BCDEC&currStreakNum=5BCDEC&sideNums=5BCDEC&currStreakLabel=5BCDEC&sideLabels=5BCDEC&dates=5BCDEC" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tediyo&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&custom_title=Most%20Used%20Languages" />
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=tediyo&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=2&column=4" alt="trophies" />
+</div>
+
+---
+
+## 📝 Sample Test Case Design
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Test%20Cases-Professional%20Format-blue?style=for-the-badge&logo=testcafe" />
+</div>
+
+<table align="center">
+  <tr>
+    <th>Test Case ID</th>
+    <th>Description</th>
+    <th>Status</th>
+    <th>Result</th>
+  </tr>
+  <tr>
+    <td><code>TC_001</code></td>
+    <td>Login with valid credentials</td>
+    <td><img src="https://img.shields.io/badge/Status-Pass-brightgreen?style=flat-square" /></td>
+    <td>✅ User redirected to dashboard</td>
+  </tr>
+  <tr>
+    <td><code>TC_002</code></td>
+    <td>Login with invalid password</td>
+    <td><img src="https://img.shields.io/badge/Status-Pass-brightgreen?style=flat-square" /></td>
+    <td>✅ Error message displayed</td>
+  </tr>
+  <tr>
+    <td><code>TC_003</code></td>
+    <td>API response validation</td>
+    <td><img src="https://img.shields.io/badge/Status-Pass-brightgreen?style=flat-square" /></td>
+    <td>✅ Response time < 1s</td>
+  </tr>
+  <tr>
+    <td><code>TC_004</code></td>
+    <td>Email format validation</td>
+    <td><img src="https://img.shields.io/badge/Status-Pass-brightgreen?style=flat-square" /></td>
+    <td>✅ Validation working correctly</td>
+  </tr>
+</table>
+
+---
+
+## 🌐 Connect with Me
+
+<div align="center">
+  <a href="https://dev.to/thedron16" target="_blank">
+    <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/tewodros-berhanu-953750230/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/thedron_16" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="mailto:tewodrosberhanu19@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D4FF&center=true&vCenter=true&width=435&lines=Thanks+for+visiting!+%F0%9F%99%8F;Let's+connect+and+collaborate!+%F0%9F%9A%80;Happy+Coding!+%F0%9F%8E%89" alt="Typing SVG" />
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+</div>
