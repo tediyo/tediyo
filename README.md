@@ -1,6 +1,6 @@
 <!-- Profile README -->
 
-<h1 align="center"> Tewodros Berhanu</h1>
+<h1 align="center"> Tewodros Berhanu </h1>
 <h3 align="center">🚀 Software Engineer | Frontend Dev | QA Tester</h3>
 
 <p align="center">
@@ -10,9 +10,6 @@
   <a href="https://linkedin.com/in/tewodros-berhanu-953750230/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Tewodros%20Berhanu-blue?style=for-the-badge&logo=linkedin" />
   </a>
-<!--   <a href="https://thedron16.netlify.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-thedron16.netlify.app-green?style=for-the-badge&logo=firefox" />
-  </a> -->
 </p>
 
 ---
@@ -27,7 +24,6 @@
 
 ### 🛠️ Languages, Frameworks & Tools
 <p align="left">
-<!-- Dev stack -->
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" width="40" height="40"/>
@@ -45,7 +41,6 @@
 </p>
 
 ---
----
 
 ### 🧪 QA Experience & Highlights
 - ✅ Performed **functional, regression, and performance testing** on web & mobile apps  
@@ -56,14 +51,52 @@
 - ✅ Ensured **UI/UX consistency and accessibility compliance** across devices  
 
 ---
----
 
-### 🧪 QA Projects
+## 🎯 My Projects
+
+<details>
+  <summary>💻 Development Projects</summary>
+
+| Project | Description | Tech Stack | Link |
+|---------|-------------|------------|------|
+| **E-commerce Platform** | Custom online shop with payment integration | Next.js, MongoDB, Tailwind | [Repo](https://github.com/tediyo/ecommerce-platform) |
+| **Via Ride App** | Ride-hailing mobile app | React Native, Firebase | [Repo](https://github.com/tediyo/via-ride) |
+| **Tracer Study** | University alumni tracer platform | Laravel, MySQL, React | [Repo](https://github.com/tediyo/tracer-study) |
+
+</details>
+
+<details>
+  <summary>🧪 QA Projects</summary>
+
 | Project | Description | Tools & Frameworks | Link |
 |---------|-------------|--------------------|------|
-| **Lersha Testing** | Functional, regression & performance testing for Lersha platform | Selenium, Postman, Appium, Newman | [Repo](https://github.com/tediyo/lersha-testing) |
+| **Lersha Testing** | Functional, regression & performance testing for Lersha platform | Selenium, Postman, Appium | [Repo](https://github.com/tediyo/lersha-testing) |
 | **QA Automation Suite** | End-to-end automation framework for web apps | Cypress, Jest, BrowserStack | [Repo](https://github.com/tediyo/qa-automation-suite) |
 | **API Testing Collection** | Automated API tests & monitoring | Postman, Newman, CI/CD | [Repo](https://github.com/tediyo/api-testing-postman) |
+
+</details>
+
+---
+
+## 🚀 Featured Dev Projects
+<p align="center">
+  <a href="https://github.com/tediyo/ecommerce-platform">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tediyo&repo=ecommerce-platform&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/tediyo/tracer-study">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tediyo&repo=tracer-study&theme=tokyonight" />
+  </a>
+</p>
+
+## 🧪 Featured QA Projects
+<p align="center">
+  <a href="https://github.com/tediyo/lersha-testing">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tediyo&repo=lersha-testing&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/tediyo/qa-automation-suite">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tediyo&repo=qa-automation-suite&theme=tokyonight" />
+  </a>
+</p>
 
 ---
 
@@ -73,36 +106,24 @@
 |--------------|-----------------------|--------------|------------|-------|-------|----------------|---------------|---------------|--------|--------|--------|-----------|
 | TC_001 | Login with valid credentials | User has a valid account | Email: user@test.com <br> Password: 123456 | Entered via login form | 1. Go to login page <br> 2. Enter valid email <br> 3. Enter valid password <br> 4. Click "Login" | User is redirected to dashboard | User session is created | As expected | ✅ Pass | - | Tewodros | Dev A |
 | TC_002 | Login with invalid password | User has a valid account | Email: user@test.com <br> Password: wrong123 | Entered via login form | 1. Go to login page <br> 2. Enter valid email <br> 3. Enter invalid password <br> 4. Click "Login" | Error message “Invalid credentials” is displayed | No session created | As expected | ✅ Pass | - | Tewodros | Dev A |
-| TC_003 | API response validation for `/users` | API server running | Endpoint: `/users` <br> Method: GET | API request from Postman | 1. Send GET request to `/users` <br> 2. Validate schema <br> 3. Measure response time | Response code 200, schema valid, response time < 1s | Response log generated | Response: 200, valid schema, 800ms | ✅ Pass | Performance OK | Tewodros | Dev B |
-| TC_004 | Invalid email format validation | Login page available | Email: test@ <br> Password: 123456 | Entered via login form | 1. Go to login page <br> 2. Enter invalid email format <br> 3. Enter password <br> 4. Click "Login" | Error message “Invalid email format” | No session created | Error displayed correctly | ✅ Pass | Validation working fine | Tewodros | Dev A |
 
-### 🧪 Test Automation
+---
+
 ### 🧪 Test Automation & QA
 <p align="left">
-  <!-- Selenium -->
   <img src="https://www.vectorlogo.zone/logos/selenium/selenium-icon.svg" width="40" height="40"/>
-  <!-- Cypress -->
   <img src="https://raw.githubusercontent.com/cypress-io/cypress-icons/master/src/logo/cypress-io-logo-round.svg" width="40" height="40"/>
-  <!-- Appium -->
   <img src="https://appium.io/docs/en/latest/assets/images/appium-logo.svg" width="40" height="40"/>
-  <!-- Postman -->
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40"/>
-  <!-- Newman -->
   <img src="https://avatars.githubusercontent.com/u/3221291?s=200&v=4" width="40" height="40"/> <!-- Newman -->
-  <!-- Jest -->
   <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" width="40" height="40"/>
-  <!-- JUnit -->
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/junit.svg" width="40" height="40"/>
-  <!-- BrowserStack -->
   <img src="https://www.browserstack.com/images/static/header-logo.jpg" width="80" height="40"/>
-  <!-- Sauce Labs -->
   <img src="https://avatars.githubusercontent.com/u/8908513?s=200&v=4" width="40" height="40"/>
 </p>
 
-
-
 ---
-### 📈 Contribution Graph
+
 ### 📈 Contribution Graph
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=tediyo&theme=tokyo-night&hide_border=true&area=true&custom_title=My%20Contributions" />
@@ -114,17 +135,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=tediyo&theme=tokyonight" />
 </p>
 
-### Stat Card
-<p align="center">
-  <!-- Total Contributions Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=tediyo&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight" alt="total contributions" />
-</p>
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tediyo&show_icons=true&theme=tokyonight" alt="stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tediyo&theme=tokyonight" alt="streak" />
-</p>
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tediyo&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="langs" />
 </p>
@@ -134,18 +144,6 @@
 ### 🏆 GitHub Trophies
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=tediyo&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="trophies" />
-</p>
-
----
-
-### 🚀 Featured Projects
-<p align="center">
-  <a href="https://tracerbdr.000webhostapp.com/admin">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tediyo&repo=tracer-study&theme=tokyonight" />
-  </a>
-  <a href="https://thedron16.netlify.app">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tediyo&repo=ecommerce-platform&theme=tokyonight" />
-  </a>
 </p>
 
 ---
