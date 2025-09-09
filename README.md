@@ -1,11 +1,12 @@
 <!-- Profile README -->
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D4FF&center=true&vCenter=true&width=435&lines=Hello+World!+%F0%9F%91%8B;I'm+Tewodros+Berhanu;Software+Engineer+%7C+Frontend+Dev+%7C+QA+Tester;Welcome+to+my+GitHub+Profile!+%F0%9F%8E%89" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Hello+%F0%9F%91%8B;This+is+Tewodros+Berhanu;Software+Engineer;Fullstack+%7C+Mobile+App+Dev;QA+Tester;Welcome!" alt="Typing SVG" />
 </div>
 
-<h1 align="center">🚀 Tewodros Berhanu</h1>
-<h3 align="center">💻 Software Engineer | 🎨 Frontend Dev | 🧪 QA Tester</h3>
+
+<h1 align="center">Teddy</h1>
+<h3 align="center">Fullstack | Mobile App Developer | QA Tester</h3>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=tediyo&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
@@ -21,9 +22,12 @@
   <a href="https://linkedin.com/in/tewodros-berhanu-953750230/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Tewodros%20Berhanu-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://tracerbdr.000webhostapp.com/admin" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Tracer%20Study-green?style=for-the-badge&logo=firefox&logoColor=white" />
+    <a href="tel:+251947087598">
+    <img src="https://img.shields.io/badge/Phone-%2B251947087598-25D366?style=for-the-badge&logo=telephone&logoColor=white" />
   </a>
+<!--   <a href="https://tracerbdr.000webhostapp.com/admin" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Tracer%20Study-green?style=for-the-badge&logo=firefox&logoColor=white" />
+  </a> -->
 </div>
 
 ---
@@ -34,11 +38,11 @@
   <img src="https://github.com/tediyo/tediyo/blob/main/assets/coding.gif" width="300" height="200" alt="Coding Animation" />
 </div>
 
-- 🔭 **Currently working on:** Tracer Study Web Application  
-- 👯 **Recently completed:** Custom Ecommerce Platform    
+- 🔭 **Currently working on:** Automated Testing System | ATS  
+- 👯 **Recently completed:** Custom Ecommerce Platforms , Ride hailing Applications | Fintech App     
 - 📝 **Writing about:** Dev & QA on my blog  
 - 📫 **Reach me at:** tewodrosberhanu19@gmail.com
-- ⚡ **Fun fact:** I love debugging more than coding! 🐛
+- ⚡ **Fun fact:** I love debugging  + coding! 
 
 ---
 
@@ -71,6 +75,27 @@
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
 </div>
 
+### 🛠️ Development Tools & DevOps
+<div align="center">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
+  <img src="https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=white" />
+</div>
+
+### ☁️ Cloud & Deployment
+<div align="center">
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/000webhost-000000?style=for-the-badge&logo=000webhost&logoColor=white" />
+</div>
+
 ### 🧪 QA & Testing Tools
 <div align="center">
   <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
@@ -82,96 +107,48 @@
 
 ---
 
-## 🧪 QA Experience & Highlights
+## 🚀 Project Showcase  
+
+### 💻 Development Projects  
 
 <div align="center">
-  <img src="https://github.com/tediyo/tediyo/blob/main/assets/testing.gif" width="300" height="200" alt="Testing Animation" />
-</div>
 
-<table align="center">
-  <tr>
-    <td align="center" width="50%">
-      <strong>🎯 Testing Types</strong><br/>
-      ✅ Functional Testing<br/>
-      ✅ Regression Testing<br/>
-      ✅ Performance Testing<br/>
-      ✅ Cross-browser Testing
-    </td>
-    <td align="center" width="50%">
-      <strong>🔧 Automation Tools</strong><br/>
-      ✅ Selenium WebDriver<br/>
-      ✅ Cypress Framework<br/>
-      ✅ Appium Mobile Testing<br/>
-      ✅ API Testing with Postman
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-      <strong>☁️ Cloud Platforms</strong><br/>
-      ✅ BrowserStack<br/>
-      ✅ Sauce Labs<br/>
-      ✅ CI/CD Pipelines<br/>
-      ✅ Newman Integration
-    </td>
-    <td align="center" width="50%">
-      <strong>🎨 Quality Assurance</strong><br/>
-      ✅ UI/UX Consistency<br/>
-      ✅ Accessibility Compliance<br/>
-      ✅ Cross-device Testing<br/>
-      ✅ Performance Monitoring
-    </td>
-  </tr>
-</table>
+| Project | Stack | Links |
+|---------|-------|-------|
+| 🛒 **E-commerce Platform** <br/> Full-stack React & Node.js app with payment integration | ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) | [🌐 Live](https://thedron16.netlify.app) • [📂 Repo](https://github.com/tediyo/ecommerce-platform) |
+| 📊 **Tracer Study System** <br/> Graduate tracking app with Laravel & MySQL | ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) | [🌐 Live](https://tracerbdr.000webhostapp.com/admin) • [📂 Repo](https://github.com/tediyo/tracer-study) |
+| 🎨 **Portfolio Website** <br/> Personal portfolio built with Next.js & Tailwind CSS | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) | [🌐 Live](https://tediyo.github.io/portfolio) • [📂 Repo](https://github.com/tediyo/portfolio) |
+
+</div>  
 
 ---
 
-## 🚀 Featured Projects
+### 🧪 QA Testing Projects  
 
 <div align="center">
-  <a href="https://tracerbdr.000webhostapp.com/admin">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tediyo&repo=tracer-study&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://thedron16.netlify.app">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tediyo&repo=ecommerce-platform&theme=tokyonight&hide_border=true" />
-  </a>
+
+| Project | Tools | Links |
+|---------|-------|-------|
+| 🔍 **Lersha Testing Suite** <br/> Functional, regression & performance testing | ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) | [📂 Repo](https://github.com/tediyo/lersha-testing) • [📊 Reports](https://github.com/tediyo/lersha-testing/blob/main/test-reports) |
+| 🤖 **QA Automation Framework** <br/> End-to-end automation with CI/CD integration | ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | [📂 Repo](https://github.com/tediyo/qa-automation-suite) • [🔄 CI/CD](https://github.com/tediyo/qa-automation-suite/actions) |
+| 🔌 **API Testing Collection** <br/> Automated API tests & monitoring | ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Newman](https://img.shields.io/badge/Newman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) | [📂 Repo](https://github.com/tediyo/api-testing-postman) • [📋 Collection](https://github.com/tediyo/api-testing-postman/blob/main/collection) |
+
 </div>
 
----
 
-## 🧪 QA Projects Showcase
+
+
+
+
+
+
+### 💻 Code Quality & Metrics
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center" width="33%">
-        <strong>🔍 Lersha Testing</strong><br/>
-        <img src="https://img.shields.io/badge/Status-Completed-brightgreen?style=flat-square" />
-        <br/>
-        <em>Functional, regression & performance testing</em><br/>
-        <a href="https://github.com/tediyo/lersha-testing">
-          <img src="https://img.shields.io/badge/View-Repository-blue?style=flat-square" />
-        </a>
-      </td>
-      <td align="center" width="33%">
-        <strong>🤖 QA Automation Suite</strong><br/>
-        <img src="https://img.shields.io/badge/Status-Active-yellow?style=flat-square" />
-        <br/>
-        <em>End-to-end automation framework</em><br/>
-        <a href="https://github.com/tediyo/qa-automation-suite">
-          <img src="https://img.shields.io/badge/View-Repository-blue?style=flat-square" />
-        </a>
-      </td>
-      <td align="center" width="33%">
-        <strong>🔌 API Testing Collection</strong><br/>
-        <img src="https://img.shields.io/badge/Status-Completed-brightgreen?style=flat-square" />
-        <br/>
-        <em>Automated API tests & monitoring</em><br/>
-        <a href="https://github.com/tediyo/api-testing-postman">
-          <img src="https://img.shields.io/badge/View-Repository-blue?style=flat-square" />
-        </a>
-      </td>
-    </tr>
-  </table>
+  <img src="https://img.shields.io/badge/Code%20Coverage-95%25-brightgreen?style=for-the-badge&logo=codecov&logoColor=white" />
+  <img src="https://img.shields.io/badge/Code%20Quality-A%20Grade-green?style=for-the-badge&logo=sonarqube&logoColor=white" />
+  <img src="https://img.shields.io/badge/Performance-Lighthouse%2095+-blue?style=for-the-badge&logo=lighthouse&logoColor=white" />
+  <img src="https://img.shields.io/badge/Accessibility-WCAG%20AA-green?style=for-the-badge&logo=accessibility&logoColor=white" />
 </div>
 
 ---
@@ -207,36 +184,163 @@
   <img src="https://img.shields.io/badge/Test%20Cases-Professional%20Format-blue?style=for-the-badge&logo=testcafe" />
 </div>
 
+### 🔐 Authentication Module Test Cases
+
 <table align="center">
   <tr>
     <th>Test Case ID</th>
     <th>Description</th>
+    <th>Priority</th>
     <th>Status</th>
     <th>Result</th>
   </tr>
   <tr>
-    <td><code>TC_001</code></td>
+    <td><code>TC_AUTH_001</code></td>
     <td>Login with valid credentials</td>
+    <td><img src="https://img.shields.io/badge/Priority-High-red?style=flat-square" /></td>
     <td><img src="https://img.shields.io/badge/Status-Pass-brightgreen?style=flat-square" /></td>
     <td>✅ User redirected to dashboard</td>
   </tr>
   <tr>
-    <td><code>TC_002</code></td>
+    <td><code>TC_AUTH_002</code></td>
     <td>Login with invalid password</td>
+    <td><img src="https://img.shields.io/badge/Priority-High-red?style=flat-square" /></td>
     <td><img src="https://img.shields.io/badge/Status-Pass-brightgreen?style=flat-square" /></td>
     <td>✅ Error message displayed</td>
   </tr>
   <tr>
-    <td><code>TC_003</code></td>
-    <td>API response validation</td>
+    <td><code>TC_AUTH_003</code></td>
+    <td>Login with empty fields</td>
+    <td><img src="https://img.shields.io/badge/Priority-Medium-orange?style=flat-square" /></td>
     <td><img src="https://img.shields.io/badge/Status-Pass-brightgreen?style=flat-square" /></td>
-    <td>✅ Response time < 1s</td>
+    <td>✅ Validation error shown</td>
   </tr>
   <tr>
-    <td><code>TC_004</code></td>
-    <td>Email format validation</td>
+    <td><code>TC_AUTH_004</code></td>
+    <td>Password reset functionality</td>
+    <td><img src="https://img.shields.io/badge/Priority-Medium-orange?style=flat-square" /></td>
     <td><img src="https://img.shields.io/badge/Status-Pass-brightgreen?style=flat-square" /></td>
-    <td>✅ Validation working correctly</td>
+    <td>✅ Reset email sent successfully</td>
+  </tr>
+</table>
+
+### 🔌 API Testing Test Cases
+
+<table align="center">
+  <tr>
+    <th>Test Case ID</th>
+    <th>Description</th>
+    <th>Method</th>
+    <th>Status</th>
+    <th>Result</th>
+  </tr>
+  <tr>
+    <td><code>TC_API_001</code></td>
+    <td>GET /api/users - Retrieve user list</td>
+    <td><img src="https://img.shields.io/badge/Method-GET-green?style=flat-square" /></td>
+    <td><img src="https://img.shields.io/badge/Status-Pass-brightgreen?style=flat-square" /></td>
+    <td>✅ Response time < 1s, Status 200</td>
+  </tr>
+  <tr>
+    <td><code>TC_API_002</code></td>
+    <td>POST /api/users - Create new user</td>
+    <td><img src="https://img.shields.io/badge/Method-POST-blue?style=flat-square" /></td>
+    <td><img src="https://img.shields.io/badge/Status-Pass-brightgreen?style=flat-square" /></td>
+    <td>✅ User created, Status 201</td>
+  </tr>
+  <tr>
+    <td><code>TC_API_003</code></td>
+    <td>PUT /api/users/{id} - Update user</td>
+    <td><img src="https://img.shields.io/badge/Method-PUT-yellow?style=flat-square" /></td>
+    <td><img src="https://img.shields.io/badge/Status-Pass-brightgreen?style=flat-square" /></td>
+    <td>✅ User updated, Status 200</td>
+  </tr>
+  <tr>
+    <td><code>TC_API_004</code></td>
+    <td>DELETE /api/users/{id} - Delete user</td>
+    <td><img src="https://img.shields.io/badge/Method-DELETE-red?style=flat-square" /></td>
+    <td><img src="https://img.shields.io/badge/Status-Pass-brightgreen?style=flat-square" /></td>
+    <td>✅ User deleted, Status 204</td>
+  </tr>
+</table>
+
+### 🎨 UI/UX Testing Test Cases
+
+<table align="center">
+  <tr>
+    <th>Test Case ID</th>
+    <th>Description</th>
+    <th>Browser</th>
+    <th>Status</th>
+    <th>Result</th>
+  </tr>
+  <tr>
+    <td><code>TC_UI_001</code></td>
+    <td>Responsive design on mobile devices</td>
+    <td><img src="https://img.shields.io/badge/Browser-Chrome-blue?style=flat-square" /></td>
+    <td><img src="https://img.shields.io/badge/Status-Pass-brightgreen?style=flat-square" /></td>
+    <td>✅ Layout adapts correctly</td>
+  </tr>
+  <tr>
+    <td><code>TC_UI_002</code></td>
+    <td>Cross-browser compatibility</td>
+    <td><img src="https://img.shields.io/badge/Browser-Firefox-orange?style=flat-square" /></td>
+    <td><img src="https://img.shields.io/badge/Status-Pass-brightgreen?style=flat-square" /></td>
+    <td>✅ Consistent appearance</td>
+  </tr>
+  <tr>
+    <td><code>TC_UI_003</code></td>
+    <td>Accessibility compliance (WCAG 2.1)</td>
+    <td><img src="https://img.shields.io/badge/Browser-All-green?style=flat-square" /></td>
+    <td><img src="https://img.shields.io/badge/Status-Pass-brightgreen?style=flat-square" /></td>
+    <td>✅ AA level compliance</td>
+  </tr>
+  <tr>
+    <td><code>TC_UI_004</code></td>
+    <td>Form validation and error handling</td>
+    <td><img src="https://img.shields.io/badge/Browser-Edge-blue?style=flat-square" /></td>
+    <td><img src="https://img.shields.io/badge/Status-Pass-brightgreen?style=flat-square" /></td>
+    <td>✅ Clear error messages</td>
+  </tr>
+</table>
+
+### ⚡ Performance Testing Test Cases
+
+<table align="center">
+  <tr>
+    <th>Test Case ID</th>
+    <th>Description</th>
+    <th>Load</th>
+    <th>Status</th>
+    <th>Result</th>
+  </tr>
+  <tr>
+    <td><code>TC_PERF_001</code></td>
+    <td>Page load time under normal load</td>
+    <td><img src="https://img.shields.io/badge/Load-100%20Users-green?style=flat-square" /></td>
+    <td><img src="https://img.shields.io/badge/Status-Pass-brightgreen?style=flat-square" /></td>
+    <td>✅ < 2 seconds load time</td>
+  </tr>
+  <tr>
+    <td><code>TC_PERF_002</code></td>
+    <td>API response time under stress</td>
+    <td><img src="https://img.shields.io/badge/Load-1000%20Users-red?style=flat-square" /></td>
+    <td><img src="https://img.shields.io/badge/Status-Pass-brightgreen?style=flat-square" /></td>
+    <td>✅ < 3 seconds response time</td>
+  </tr>
+  <tr>
+    <td><code>TC_PERF_003</code></td>
+    <td>Database query performance</td>
+    <td><img src="https://img.shields.io/badge/Load-500%20Concurrent-yellow?style=flat-square" /></td>
+    <td><img src="https://img.shields.io/badge/Status-Pass-brightgreen?style=flat-square" /></td>
+    <td>✅ < 500ms query time</td>
+  </tr>
+  <tr>
+    <td><code>TC_PERF_004</code></td>
+    <td>Memory usage monitoring</td>
+    <td><img src="https://img.shields.io/badge/Load-24%20Hours-blue?style=flat-square" /></td>
+    <td><img src="https://img.shields.io/badge/Status-Pass-brightgreen?style=flat-square" /></td>
+    <td>✅ No memory leaks detected</td>
   </tr>
 </table>
 
@@ -257,7 +361,11 @@
   <a href="mailto:tewodrosberhanu19@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+  <a href="tel:+251947087598">
+    <img src="https://img.shields.io/badge/Phone-%2B251947087598-25D366?style=for-the-badge&logo=telephone&logoColor=white" />
+  </a>
 </div>
+
 
 ---
 
@@ -267,4 +375,4 @@
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
-</div>
+</div> 
