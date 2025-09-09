@@ -8,9 +8,7 @@
 <h1 align="center">Teddy</h1>
 <h3 align="center">Fullstack | Mobile App Developer | QA Tester</h3>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tediyo&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&custom_title=Most%20Used%20Languages&exclude=html,css,scss,markdown,json,yaml,xml,svg,tsx,jsx,less,sass,stylus,handlebars,ejs" />
-</div>
+
 
 <div align="center">
   <a href="mailto:tewodrosberhanu19@gmail.com">
