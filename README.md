@@ -358,9 +358,11 @@
   <a href="mailto:tewodrosberhanu19@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
- 
-
+  <a href="tel:+251947087598">
+    <img src="https://img.shields.io/badge/Phone-%2B251947087598-25D366?style=for-the-badge&logo=telephone&logoColor=white" />
+  </a>
 </div>
+
 
 ---
 
