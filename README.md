@@ -103,192 +103,34 @@
 
 ---
 
-## 🚀 Interactive Project Showcase
+## 🚀 Project Showcase  
+
+### 💻 Development Projects  
 
 <div align="center">
-  <h3>💻 Development Projects</h3>
-</div>
+
+| Project | Stack | Links |
+|---------|-------|-------|
+| 🛒 **E-commerce Platform** <br/> Full-stack React & Node.js app with payment integration | ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) | [🌐 Live](https://thedron16.netlify.app) • [📂 Repo](https://github.com/tediyo/ecommerce-platform) |
+| 📊 **Tracer Study System** <br/> Graduate tracking app with Laravel & MySQL | ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) | [🌐 Live](https://tracerbdr.000webhostapp.com/admin) • [📂 Repo](https://github.com/tediyo/tracer-study) |
+| 🎨 **Portfolio Website** <br/> Personal portfolio built with Next.js & Tailwind CSS | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) | [🌐 Live](https://tediyo.github.io/portfolio) • [📂 Repo](https://github.com/tediyo/portfolio) |
+
+</div>  
+
+---
+
+### 🧪 QA Testing Projects  
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center" width="33%">
-        <strong>🛒 E-commerce Platform</strong><br/>
-        <img src="https://img.shields.io/badge/Status-Live-brightgreen?style=flat-square" />
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-        <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white" />
-        <br/>
-        <em>Full-stack React & Node.js application with payment integration</em><br/>
-        <a href="https://thedron16.netlify.app">
-          <img src="https://img.shields.io/badge/🌐_Live_Demo-00C7B7?style=flat-square" />
-        </a>
-        <a href="https://github.com/tediyo/ecommerce-platform">
-          <img src="https://img.shields.io/badge/📁_Repository-181717?style=flat-square" />
-        </a>
-      </td>
-      <td align="center" width="33%">
-        <strong>📊 Tracer Study System</strong><br/>
-        <img src="https://img.shields.io/badge/Status-Live-brightgreen?style=flat-square" />
-        <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
-        <img src="https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white" />
-        <br/>
-        <em>Laravel & MySQL web application for graduate tracking</em><br/>
-        <a href="https://tracerbdr.000webhostapp.com/admin">
-          <img src="https://img.shields.io/badge/🌐_Live_Demo-00C7B7?style=flat-square" />
-        </a>
-        <a href="https://github.com/tediyo/tracer-study">
-          <img src="https://img.shields.io/badge/📁_Repository-181717?style=flat-square" />
-        </a>
-      </td>
-      <td align="center" width="33%">
-        <strong>🎨 Portfolio Website</strong><br/>
-        <img src="https://img.shields.io/badge/Status-Live-brightgreen?style=flat-square" />
-        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
-        <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
-        <br/>
-        <em>Modern portfolio built with Next.js & Tailwind CSS</em><br/>
-        <a href="https://tediyo.github.io/portfolio">
-          <img src="https://img.shields.io/badge/🌐_Live_Demo-00C7B7?style=flat-square" />
-        </a>
-        <a href="https://github.com/tediyo/portfolio">
-          <img src="https://img.shields.io/badge/📁_Repository-181717?style=flat-square" />
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="33%">
-        <strong>📱 Task Management App</strong><br/>
-        <img src="https://img.shields.io/badge/Status-In_Progress-yellow?style=flat-square" />
-        <img src="https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vue.js&logoColor=4FC08D" />
-        <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
-        <br/>
-        <em>Real-time task management with Vue.js & Express</em><br/>
-        <a href="https://github.com/tediyo/task-manager">
-          <img src="https://img.shields.io/badge/📁_Repository-181717?style=flat-square" />
-        </a>
-      </td>
-      <td align="center" width="33%">
-        <strong>🔐 Authentication API</strong><br/>
-        <img src="https://img.shields.io/badge/Status-Completed-brightgreen?style=flat-square" />
-        <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white" />
-        <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" />
-        <br/>
-        <em>Secure authentication API with JWT & bcrypt</em><br/>
-        <a href="https://github.com/tediyo/auth-api">
-          <img src="https://img.shields.io/badge/📁_Repository-181717?style=flat-square" />
-        </a>
-      </td>
-      <td align="center" width="33%">
-        <strong>📊 Analytics Dashboard</strong><br/>
-        <img src="https://img.shields.io/badge/Status-Live-brightgreen?style=flat-square" />
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-        <img src="https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chart.js&logoColor=white" />
-        <br/>
-        <em>Interactive dashboard with real-time data visualization</em><br/>
-        <a href="https://analytics-demo.netlify.app">
-          <img src="https://img.shields.io/badge/🌐_Live_Demo-00C7B7?style=flat-square" />
-        </a>
-        <a href="https://github.com/tediyo/analytics-dashboard">
-          <img src="https://img.shields.io/badge/📁_Repository-181717?style=flat-square" />
-        </a>
-      </td>
-    </tr>
-  </table>
+
+| Project | Tools | Links |
+|---------|-------|-------|
+| 🔍 **Lersha Testing Suite** <br/> Functional, regression & performance testing | ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) | [📂 Repo](https://github.com/tediyo/lersha-testing) • [📊 Reports](https://github.com/tediyo/lersha-testing/blob/main/test-reports) |
+| 🤖 **QA Automation Framework** <br/> End-to-end automation with CI/CD integration | ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | [📂 Repo](https://github.com/tediyo/qa-automation-suite) • [🔄 CI/CD](https://github.com/tediyo/qa-automation-suite/actions) |
+| 🔌 **API Testing Collection** <br/> Automated API tests & monitoring | ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Newman](https://img.shields.io/badge/Newman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) | [📂 Repo](https://github.com/tediyo/api-testing-postman) • [📋 Collection](https://github.com/tediyo/api-testing-postman/blob/main/collection) |
+
 </div>
 
-<div align="center">
-  <h3>🧪 QA Testing Projects</h3>
-</div>
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="33%">
-        <strong>🔍 Lersha Testing Suite</strong><br/>
-        <img src="https://img.shields.io/badge/Status-Completed-brightgreen?style=flat-square" />
-        <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white" />
-        <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white" />
-        <br/>
-        <em>Comprehensive functional, regression & performance testing</em><br/>
-        <a href="https://github.com/tediyo/lersha-testing">
-          <img src="https://img.shields.io/badge/📁_Repository-181717?style=flat-square" />
-        </a>
-        <a href="https://github.com/tediyo/lersha-testing/blob/main/test-reports">
-          <img src="https://img.shields.io/badge/📊_Test_Reports-blue?style=flat-square" />
-        </a>
-      </td>
-      <td align="center" width="33%">
-        <strong>🤖 QA Automation Framework</strong><br/>
-        <img src="https://img.shields.io/badge/Status-Active-yellow?style=flat-square" />
-        <img src="https://img.shields.io/badge/Cypress-17202C?style=flat-square&logo=cypress&logoColor=white" />
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-        <br/>
-        <em>End-to-end automation framework with CI/CD integration</em><br/>
-        <a href="https://github.com/tediyo/qa-automation-suite">
-          <img src="https://img.shields.io/badge/📁_Repository-181717?style=flat-square" />
-        </a>
-        <a href="https://github.com/tediyo/qa-automation-suite/actions">
-          <img src="https://img.shields.io/badge/🔄_CI/CD-2088FF?style=flat-square" />
-        </a>
-      </td>
-      <td align="center" width="33%">
-        <strong>🔌 API Testing Collection</strong><br/>
-        <img src="https://img.shields.io/badge/Status-Completed-brightgreen?style=flat-square" />
-        <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
-        <img src="https://img.shields.io/badge/Newman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
-        <br/>
-        <em>Automated API tests & monitoring with Newman integration</em><br/>
-        <a href="https://github.com/tediyo/api-testing-postman">
-          <img src="https://img.shields.io/badge/📁_Repository-181717?style=flat-square" />
-        </a>
-        <a href="https://github.com/tediyo/api-testing-postman/blob/main/collection">
-          <img src="https://img.shields.io/badge/📋_Collection-orange?style=flat-square" />
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="33%">
-        <strong>📱 Mobile Testing Suite</strong><br/>
-        <img src="https://img.shields.io/badge/Status-Completed-brightgreen?style=flat-square" />
-        <img src="https://img.shields.io/badge/Appium-000000?style=flat-square&logo=appium&logoColor=white" />
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <br/>
-        <em>Cross-platform mobile app testing with Appium</em><br/>
-        <a href="https://github.com/tediyo/mobile-testing-suite">
-          <img src="https://img.shields.io/badge/📁_Repository-181717?style=flat-square" />
-        </a>
-      </td>
-      <td align="center" width="33%">
-        <strong>⚡ Performance Testing</strong><br/>
-        <img src="https://img.shields.io/badge/Status-Active-yellow?style=flat-square" />
-        <img src="https://img.shields.io/badge/JMeter-D22128?style=flat-square&logo=apache&logoColor=white" />
-        <img src="https://img.shields.io/badge/K6-7D4799?style=flat-square&logo=k6&logoColor=white" />
-        <br/>
-        <em>Load testing and performance monitoring suite</em><br/>
-        <a href="https://github.com/tediyo/performance-testing">
-          <img src="https://img.shields.io/badge/📁_Repository-181717?style=flat-square" />
-        </a>
-        <a href="https://github.com/tediyo/performance-testing/blob/main/reports">
-          <img src="https://img.shields.io/badge/📈_Reports-green?style=flat-square" />
-        </a>
-      </td>
-      <td align="center" width="33%">
-        <strong>🧪 BDD Test Suite</strong><br/>
-        <img src="https://img.shields.io/badge/Status-Completed-brightgreen?style=flat-square" />
-        <img src="https://img.shields.io/badge/Cucumber-4DC08C?style=flat-square&logo=cucumber&logoColor=white" />
-        <img src="https://img.shields.io/badge/Gherkin-4DC08C?style=flat-square&logo=cucumber&logoColor=white" />
-        <br/>
-        <em>Behavior-driven development testing framework</em><br/>
-        <a href="https://github.com/tediyo/bdd-test-suite">
-          <img src="https://img.shields.io/badge/📁_Repository-181717?style=flat-square" />
-        </a>
-        <a href="https://github.com/tediyo/bdd-test-suite/blob/main/features">
-          <img src="https://img.shields.io/badge/📝_Features-green?style=flat-square" />
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
 
 
 
