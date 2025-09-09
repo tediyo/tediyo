@@ -152,12 +152,7 @@
 </div>
 
 <div align="center">
-  <h3>💻 Most Used Languages</h3>
-  <img src="https://img.shields.io/badge/JavaScript-45.2%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-23.1%25-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-15.8%25-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-12.3%25-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3.6%25-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tediyo&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&custom_title=My%20GitHub%20Stats" />
 </div>
 
 ## 🏆 GitHub Trophies
