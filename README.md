@@ -9,11 +9,8 @@
 <h3 align="center">Fullstack | Mobile App Developer | QA Tester</h3>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=tediyo&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/tediyo?label=Followers&style=social" alt="GitHub followers" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tediyo&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&custom_title=Most%20Used%20Languages&exclude=html,css,scss,markdown,json,yaml,xml,svg,tsx,jsx,less,sass,stylus,handlebars,ejs" />
 </div>
-
----
 
 <div align="center">
   <a href="mailto:tewodrosberhanu19@gmail.com">
