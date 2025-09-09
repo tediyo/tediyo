@@ -1,13 +1,6 @@
-    <td align="center" width="50%">
-      <strong>🔧 Automation Tools</strong><br/>
-      ✅ Selenium WebDriver<br/>
-      ✅ Cypress Framework<br/>
-      ✅ Appium Mobile Testing<br/>
-      ✅ API Testing with Postman<br/>
-      ✅ Cucumber BDD Framework<br/>
-      ✅ JMeter Performance Testing<br/>
-      ✅ K6 Load Testing
-    </td> SVG" />
+   
+      ✅ Tewodros 
+     
 </div>
 
 <h1 align="center">🚀 Tewodros Berhanu</h1>
