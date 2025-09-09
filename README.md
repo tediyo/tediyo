@@ -1,7 +1,7 @@
 <!-- Profile README -->
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D4FF&center=true&vCenter=true&width=435&lines=Hello+World!+%F0%9F%91%8B;I'm+Tewodros+Berhanu;Software+Engineer+%7C+Frontend+Dev+%7C+QA+Tester;Welcome+to+my+GitHub+Profile!+%F0%9F%8E%89" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D4FF&center=true&vCenter=true&width=435&lines=Hello,+%F0%9F%91%8B;This+ is+Tewodros+Berhanu;Software+Engineer+%7C+Fullstack+Mobile+App+Dev+%7C+QA+Tester;Welcome!+እንኳን+ደህና+መጡ::+%F0%9F%8E%89" alt="Typing SVG" />
 </div>
 
 <h1 align="center">🚀 Tewodros Berhanu</h1>
@@ -357,11 +357,7 @@
   <a href="mailto:tewodrosberhanu19@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  ##  Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tewodros-berhanu/)
-
-[![LinkedIn Banner](https://img.shields.io/badge/Connect%20with%20me%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5)](https://www.linkedin.com/in/tewodros-berhanu/)
+ 
 
 </div>
 
