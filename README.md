@@ -290,18 +290,7 @@
   </table>
 </div>
 
-### 💻 Code Quality & Metrics
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Code%20Coverage-95%25-brightgreen?style=for-the-badge&logo=codecov&logoColor=white" />
-  <img src="https://img.shields.io/badge/Code%20Quality-A%20Grade-green?style=for-the-badge&logo=sonarqube&logoColor=white" />
-  <img src="https://img.shields.io/badge/Performance-Lighthouse%2095+-blue?style=for-the-badge&logo=lighthouse&logoColor=white" />
-  <img src="https://img.shields.io/badge/Accessibility-WCAG%20AA-green?style=for-the-badge&logo=accessibility&logoColor=white" />
-</div>         <img src="https://img.shields.io/badge/📁_Repository-181717?style=flat-square" />
-        </a>
-     
-     
-</div>
 
 
 
