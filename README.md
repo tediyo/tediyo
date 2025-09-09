@@ -1,7 +1,7 @@
 <!-- Profile README -->
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D4FF&center=true&vCenter=true&width=435&lines=Hello,+%F0%9F%91%8B;This+ is+Tewodros+Berhanu;Software+Engineer+%7C+Fullstack+Mobile+App+Dev+%7C+QA+Tester;Welcome!+እንኳን+ደህና+መጡ::+%F0%9F%8E%89" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D4FF&center=true&vCenter=true&width=435&lines=Hello+%F0%9F%91%8B;This+ is+Tewodros+Berhanu;Software+Engineer+%7C+Fullstack+Mobile+App+Dev+%7C+QA+Tester;Welcome!+እንኳን+ደህና+መጡ::+%F0%9F%8E%89" alt="Typing SVG" />
 </div>
 
 <h1 align="center">🚀 Tewodros Berhanu</h1>
