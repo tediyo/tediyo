@@ -22,9 +22,12 @@
   <a href="https://linkedin.com/in/tewodros-berhanu-953750230/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Tewodros%20Berhanu-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://tracerbdr.000webhostapp.com/admin" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Tracer%20Study-green?style=for-the-badge&logo=firefox&logoColor=white" />
+    <a href="tel:+251947087598">
+    <img src="https://img.shields.io/badge/Phone-%2B251947087598-25D366?style=for-the-badge&logo=telephone&logoColor=white" />
   </a>
+<!--   <a href="https://tracerbdr.000webhostapp.com/admin" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Tracer%20Study-green?style=for-the-badge&logo=firefox&logoColor=white" />
+  </a> -->
 </div>
 
 ---
