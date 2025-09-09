@@ -299,75 +299,8 @@
   <img src="https://img.shields.io/badge/Accessibility-WCAG%20AA-green?style=for-the-badge&logo=accessibility&logoColor=white" />
 </div>         <img src="https://img.shields.io/badge/📁_Repository-181717?style=flat-square" />
         </a>
-      </td>
-      <td align="center" width="33%">
-        <strong>📊 Tracer Study System</strong><br/>
-        <img src="https://img.shields.io/badge/Status-Live-brightgreen?style=flat-square" />
-        <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
-        <img src="https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white" />
-        <br/>
-        <em>Laravel & MySQL web application for graduate tracking</em><br/>
-        <a href="https://tracerbdr.000webhostapp.com/admin">
-          <img src="https://img.shields.io/badge/🌐_Live_Demo-00C7B7?style=flat-square" />
-        </a>
-        <a href="https://github.com/tediyo/tracer-study">
-          <img src="https://img.shields.io/badge/📁_Repository-181717?style=flat-square" />
-        </a>
-      </td>
-      <td align="center" width="33%">
-        <strong>🎨 Portfolio Website</strong><br/>
-        <img src="https://img.shields.io/badge/Status-Live-brightgreen?style=flat-square" />
-        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
-        <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
-        <br/>
-        <em>Modern portfolio built with Next.js & Tailwind CSS</em><br/>
-        <a href="https://tediyo.github.io/portfolio">
-          <img src="https://img.shields.io/badge/🌐_Live_Demo-00C7B7?style=flat-square" />
-        </a>
-        <a href="https://github.com/tediyo/portfolio">
-          <img src="https://img.shields.io/badge/📁_Repository-181717?style=flat-square" />
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="33%">
-        <strong>📱 Task Management App</strong><br/>
-        <img src="https://img.shields.io/badge/Status-In_Progress-yellow?style=flat-square" />
-        <img src="https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vue.js&logoColor=4FC08D" />
-        <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
-        <br/>
-        <em>Real-time task management with Vue.js & Express</em><br/>
-        <a href="https://github.com/tediyo/task-manager">
-          <img src="https://img.shields.io/badge/📁_Repository-181717?style=flat-square" />
-        </a>
-      </td>
-      <td align="center" width="33%">
-        <strong>🔐 Authentication API</strong><br/>
-        <img src="https://img.shields.io/badge/Status-Completed-brightgreen?style=flat-square" />
-        <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white" />
-        <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" />
-        <br/>
-        <em>Secure authentication API with JWT & bcrypt</em><br/>
-        <a href="https://github.com/tediyo/auth-api">
-          <img src="https://img.shields.io/badge/📁_Repository-181717?style=flat-square" />
-        </a>
-      </td>
-      <td align="center" width="33%">
-        <strong>📊 Analytics Dashboard</strong><br/>
-        <img src="https://img.shields.io/badge/Status-Live-brightgreen?style=flat-square" />
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-        <img src="https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chart.js&logoColor=white" />
-        <br/>
-        <em>Interactive dashboard with real-time data visualization</em><br/>
-        <a href="https://analytics-demo.netlify.app">
-          <img src="https://img.shields.io/badge/🌐_Live_Demo-00C7B7?style=flat-square" />
-        </a>
-        <a href="https://github.com/tediyo/analytics-dashboard">
-          <img src="https://img.shields.io/badge/📁_Repository-181717?style=flat-square" />
-        </a>
-      </td>
-    </tr>
-  </table>
+     
+     
 </div>
 
 <div align="center">
