@@ -152,7 +152,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tediyo&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&custom_title=My%20GitHub%20Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tediyo&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&custom_title=Most%20Used%20Languages&exclude=html,css,scss,markdown,json,yaml,xml,svg,tsx,jsx,less,sass,stylus,handlebars,ejs,htm,asp,aspx,php,blade" />
 </div>
 
 ## 🏆 GitHub Trophies
