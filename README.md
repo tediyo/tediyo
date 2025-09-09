@@ -1,7 +1,13 @@
-<!-- Profile README -->
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D4FF&center=true&vCenter=true&width=435&lines=Hello+World!+%F0%9F%91%8B;I'm+Tewodros+Berhanu;Software+Engineer+%7C+Frontend+Dev+%7C+QA+Tester;Welcome+to+my+GitHub+Profile!+%F0%9F%8E%89" alt="Typing SVG" />
+    <td align="center" width="50%">
+      <strong>🔧 Automation Tools</strong><br/>
+      ✅ Selenium WebDriver<br/>
+      ✅ Cypress Framework<br/>
+      ✅ Appium Mobile Testing<br/>
+      ✅ API Testing with Postman<br/>
+      ✅ Cucumber BDD Framework<br/>
+      ✅ JMeter Performance Testing<br/>
+      ✅ K6 Load Testing
+    </td> SVG" />
 </div>
 
 <h1 align="center">🚀 Tewodros Berhanu</h1>
@@ -78,6 +84,10 @@
   <img src="https://img.shields.io/badge/Appium-000000?style=for-the-badge&logo=appium&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
   <img src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=jest&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cucumber-4DC08C?style=for-the-badge&logo=cucumber&logoColor=white" />
+  <img src="https://img.shields.io/badge/JMeter-D22128?style=for-the-badge&logo=apache&logoColor=white" />
+  <img src="https://img.shields.io/badge/K6-7D4799?style=for-the-badge&logo=k6&logoColor=white" />
+  <img src="https://img.shields.io/badge/BDD_Gherkin-4DC08C?style=for-the-badge&logo=cucumber&logoColor=white" />
 </div>
 
 ---
@@ -102,7 +112,10 @@
       ✅ Selenium WebDriver<br/>
       ✅ Cypress Framework<br/>
       ✅ Appium Mobile Testing<br/>
-      ✅ API Testing with Postman
+      ✅ API Testing with Postman<br/>
+      ✅ Cucumber BDD Framework<br/>
+      ✅ JMeter Performance Testing<br/>
+      ✅ K6 Load Testing
     </td>
   </tr>
   <tr>
