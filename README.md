@@ -157,9 +157,8 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tediyo&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&custom_title=Most%20Used%20Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tediyo&show_icons=true&locale=en&layout=donut&theme=tokyonight&hide_border=true&custom_title=Most%20Used%20Languages&exclude=html,css,scss,markdown" />
 </div>
-
 ---
 
 ## 🏆 GitHub Trophies
