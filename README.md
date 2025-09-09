@@ -5,8 +5,8 @@
 </div>
 
 
-<h1 align="center">🚀 Tewodros Berhanu</h1>
-<h3 align="center">💻 Software Engineer | 🎨 Frontend Dev | 🧪 QA Tester</h3>
+<h1 align="center">Teddy</h1>
+<h3 align="center">Fullstack | Mobile App Developer | QA Tester</h3>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=tediyo&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
@@ -35,11 +35,11 @@
   <img src="https://github.com/tediyo/tediyo/blob/main/assets/coding.gif" width="300" height="200" alt="Coding Animation" />
 </div>
 
-- 🔭 **Currently working on:** Tracer Study Web Application  
-- 👯 **Recently completed:** Custom Ecommerce Platform    
+- 🔭 **Currently working on:** Automated Testing System | ATS  
+- 👯 **Recently completed:** Custom Ecommerce Platforms , Ride hailing Applications | Fintech App     
 - 📝 **Writing about:** Dev & QA on my blog  
 - 📫 **Reach me at:** tewodrosberhanu19@gmail.com
-- ⚡ **Fun fact:** I love debugging more than coding! 🐛
+- ⚡ **Fun fact:** I love debugging  + coding! 
 
 ---
 
