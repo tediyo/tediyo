@@ -207,36 +207,163 @@
   <img src="https://img.shields.io/badge/Test%20Cases-Professional%20Format-blue?style=for-the-badge&logo=testcafe" />
 </div>
 
+### 🔐 Authentication Module Test Cases
+
 <table align="center">
   <tr>
     <th>Test Case ID</th>
     <th>Description</th>
+    <th>Priority</th>
     <th>Status</th>
     <th>Result</th>
   </tr>
   <tr>
-    <td><code>TC_001</code></td>
+    <td><code>TC_AUTH_001</code></td>
     <td>Login with valid credentials</td>
+    <td><img src="https://img.shields.io/badge/Priority-High-red?style=flat-square" /></td>
     <td><img src="https://img.shields.io/badge/Status-Pass-brightgreen?style=flat-square" /></td>
     <td>✅ User redirected to dashboard</td>
   </tr>
   <tr>
-    <td><code>TC_002</code></td>
+    <td><code>TC_AUTH_002</code></td>
     <td>Login with invalid password</td>
+    <td><img src="https://img.shields.io/badge/Priority-High-red?style=flat-square" /></td>
     <td><img src="https://img.shields.io/badge/Status-Pass-brightgreen?style=flat-square" /></td>
     <td>✅ Error message displayed</td>
   </tr>
   <tr>
-    <td><code>TC_003</code></td>
-    <td>API response validation</td>
+    <td><code>TC_AUTH_003</code></td>
+    <td>Login with empty fields</td>
+    <td><img src="https://img.shields.io/badge/Priority-Medium-orange?style=flat-square" /></td>
     <td><img src="https://img.shields.io/badge/Status-Pass-brightgreen?style=flat-square" /></td>
-    <td>✅ Response time < 1s</td>
+    <td>✅ Validation error shown</td>
   </tr>
   <tr>
-    <td><code>TC_004</code></td>
-    <td>Email format validation</td>
+    <td><code>TC_AUTH_004</code></td>
+    <td>Password reset functionality</td>
+    <td><img src="https://img.shields.io/badge/Priority-Medium-orange?style=flat-square" /></td>
     <td><img src="https://img.shields.io/badge/Status-Pass-brightgreen?style=flat-square" /></td>
-    <td>✅ Validation working correctly</td>
+    <td>✅ Reset email sent successfully</td>
+  </tr>
+</table>
+
+### 🔌 API Testing Test Cases
+
+<table align="center">
+  <tr>
+    <th>Test Case ID</th>
+    <th>Description</th>
+    <th>Method</th>
+    <th>Status</th>
+    <th>Result</th>
+  </tr>
+  <tr>
+    <td><code>TC_API_001</code></td>
+    <td>GET /api/users - Retrieve user list</td>
+    <td><img src="https://img.shields.io/badge/Method-GET-green?style=flat-square" /></td>
+    <td><img src="https://img.shields.io/badge/Status-Pass-brightgreen?style=flat-square" /></td>
+    <td>✅ Response time < 1s, Status 200</td>
+  </tr>
+  <tr>
+    <td><code>TC_API_002</code></td>
+    <td>POST /api/users - Create new user</td>
+    <td><img src="https://img.shields.io/badge/Method-POST-blue?style=flat-square" /></td>
+    <td><img src="https://img.shields.io/badge/Status-Pass-brightgreen?style=flat-square" /></td>
+    <td>✅ User created, Status 201</td>
+  </tr>
+  <tr>
+    <td><code>TC_API_003</code></td>
+    <td>PUT /api/users/{id} - Update user</td>
+    <td><img src="https://img.shields.io/badge/Method-PUT-yellow?style=flat-square" /></td>
+    <td><img src="https://img.shields.io/badge/Status-Pass-brightgreen?style=flat-square" /></td>
+    <td>✅ User updated, Status 200</td>
+  </tr>
+  <tr>
+    <td><code>TC_API_004</code></td>
+    <td>DELETE /api/users/{id} - Delete user</td>
+    <td><img src="https://img.shields.io/badge/Method-DELETE-red?style=flat-square" /></td>
+    <td><img src="https://img.shields.io/badge/Status-Pass-brightgreen?style=flat-square" /></td>
+    <td>✅ User deleted, Status 204</td>
+  </tr>
+</table>
+
+### 🎨 UI/UX Testing Test Cases
+
+<table align="center">
+  <tr>
+    <th>Test Case ID</th>
+    <th>Description</th>
+    <th>Browser</th>
+    <th>Status</th>
+    <th>Result</th>
+  </tr>
+  <tr>
+    <td><code>TC_UI_001</code></td>
+    <td>Responsive design on mobile devices</td>
+    <td><img src="https://img.shields.io/badge/Browser-Chrome-blue?style=flat-square" /></td>
+    <td><img src="https://img.shields.io/badge/Status-Pass-brightgreen?style=flat-square" /></td>
+    <td>✅ Layout adapts correctly</td>
+  </tr>
+  <tr>
+    <td><code>TC_UI_002</code></td>
+    <td>Cross-browser compatibility</td>
+    <td><img src="https://img.shields.io/badge/Browser-Firefox-orange?style=flat-square" /></td>
+    <td><img src="https://img.shields.io/badge/Status-Pass-brightgreen?style=flat-square" /></td>
+    <td>✅ Consistent appearance</td>
+  </tr>
+  <tr>
+    <td><code>TC_UI_003</code></td>
+    <td>Accessibility compliance (WCAG 2.1)</td>
+    <td><img src="https://img.shields.io/badge/Browser-All-green?style=flat-square" /></td>
+    <td><img src="https://img.shields.io/badge/Status-Pass-brightgreen?style=flat-square" /></td>
+    <td>✅ AA level compliance</td>
+  </tr>
+  <tr>
+    <td><code>TC_UI_004</code></td>
+    <td>Form validation and error handling</td>
+    <td><img src="https://img.shields.io/badge/Browser-Edge-blue?style=flat-square" /></td>
+    <td><img src="https://img.shields.io/badge/Status-Pass-brightgreen?style=flat-square" /></td>
+    <td>✅ Clear error messages</td>
+  </tr>
+</table>
+
+### ⚡ Performance Testing Test Cases
+
+<table align="center">
+  <tr>
+    <th>Test Case ID</th>
+    <th>Description</th>
+    <th>Load</th>
+    <th>Status</th>
+    <th>Result</th>
+  </tr>
+  <tr>
+    <td><code>TC_PERF_001</code></td>
+    <td>Page load time under normal load</td>
+    <td><img src="https://img.shields.io/badge/Load-100%20Users-green?style=flat-square" /></td>
+    <td><img src="https://img.shields.io/badge/Status-Pass-brightgreen?style=flat-square" /></td>
+    <td>✅ < 2 seconds load time</td>
+  </tr>
+  <tr>
+    <td><code>TC_PERF_002</code></td>
+    <td>API response time under stress</td>
+    <td><img src="https://img.shields.io/badge/Load-1000%20Users-red?style=flat-square" /></td>
+    <td><img src="https://img.shields.io/badge/Status-Pass-brightgreen?style=flat-square" /></td>
+    <td>✅ < 3 seconds response time</td>
+  </tr>
+  <tr>
+    <td><code>TC_PERF_003</code></td>
+    <td>Database query performance</td>
+    <td><img src="https://img.shields.io/badge/Load-500%20Concurrent-yellow?style=flat-square" /></td>
+    <td><img src="https://img.shields.io/badge/Status-Pass-brightgreen?style=flat-square" /></td>
+    <td>✅ < 500ms query time</td>
+  </tr>
+  <tr>
+    <td><code>TC_PERF_004</code></td>
+    <td>Memory usage monitoring</td>
+    <td><img src="https://img.shields.io/badge/Load-24%20Hours-blue?style=flat-square" /></td>
+    <td><img src="https://img.shields.io/badge/Status-Pass-brightgreen?style=flat-square" /></td>
+    <td>✅ No memory leaks detected</td>
   </tr>
 </table>
 
