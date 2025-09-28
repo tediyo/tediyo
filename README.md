@@ -10,36 +10,7 @@
 
 
  <!-- New -->
-<div align="center" style="display:flex; gap:10px; justify-content:center; flex-wrap:wrap;">
 
-  <!-- Email -->
-  <a href="mailto:tewodrosberhanu19@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" 
-         alt="Email" 
-         style="border-radius:8px; transition:0.3s; transform:scale(1);" 
-         onmouseover="this.style.transform='scale(1.1)';this.style.filter='drop-shadow(0px 0px 8px red)';" 
-         onmouseout="this.style.transform='scale(1)';this.style.filter='none';"/>
-  </a>
-
-  <!-- LinkedIn -->
-  <a href="https://linkedin.com/in/tewodros-berhanu-953750230/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" 
-         alt="LinkedIn" 
-         style="border-radius:8px; transition:0.3s;" 
-         onmouseover="this.style.transform='scale(1.1)';this.style.filter='drop-shadow(0px 0px 8px #0A66C2)';" 
-         onmouseout="this.style.transform='scale(1)';this.style.filter='none';"/>
-  </a>
-
-  <!-- Phone -->
-  <a href="tel:+251947087598" target="_blank">
-    <img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" 
-         alt="Phone" 
-         style="border-radius:8px; transition:0.3s;" 
-         onmouseover="this.style.transform='scale(1.1)';this.style.filter='drop-shadow(0px 0px 8px #25D366)';" 
-         onmouseout="this.style.transform='scale(1)';this.style.filter='none';"/>
-  </a>
-
-</div>
 <div align="center">
 
   <!-- Email -->
@@ -66,20 +37,6 @@
 
 
  
-<div align="center">
-  <a href="mailto:tewodrosberhanu19@gmail.com">
-    <img src="https://img.shields.io/badge/Email-tewodrosberhanu19%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/tewodros-berhanu-953750230/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Tewodros%20Berhanu-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-    <a href="tel:+251947087598">
-    <img src="https://img.shields.io/badge/Phone-%2B251947087598-25D366?style=for-the-badge&logo=telephone&logoColor=white" />
-  </a>
-<!--   <a href="https://tracerbdr.000webhostapp.com/admin" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Tracer%20Study-green?style=for-the-badge&logo=firefox&logoColor=white" />
-  </a> -->
-</div>
 
 ---
 
