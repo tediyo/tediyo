@@ -9,7 +9,20 @@
 <h3 align="center">Fullstack | Mobile App Developer | QA Tester</h3>
 
 
+ <!-- New -->
+<div align="center">
+  <a href="mailto:tewodrosberhanu19@gmail.com">
+    <img src="https://img.shields.io/badge/Email-tewodrosberhanu19%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/tewodros-berhanu-953750230/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Tewodros%20Berhanu-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="tel:+251947087598">
+    <img src="https://img.shields.io/badge/Phone-%2B251947087598-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+</div>
 
+ 
 <div align="center">
   <a href="mailto:tewodrosberhanu19@gmail.com">
     <img src="https://img.shields.io/badge/Email-tewodrosberhanu19%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" />
