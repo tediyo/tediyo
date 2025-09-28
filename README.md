@@ -5,7 +5,7 @@
 </div>
 
 
-<h1 align="center">Teddy</h1>
+<h1 align="center">Tewodros B.</h1>
 <h3 align="center">Fullstack | Mobile App Developer | QA Tester</h3>
 
 
