@@ -40,6 +40,29 @@
   </a>
 
 </div>
+<div align="center">
+
+  <!-- Email -->
+  <a href="mailto:tewodrosberhanu19@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
+  <!-- LinkedIn -->
+  <a href="https://linkedin.com/in/tewodros-berhanu-953750230/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <!-- Phone -->
+  <a href="tel:+251947087598">
+    <img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+
+  <!-- Portfolio -->
+  <a href="https://tewodrosberhanu.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-tewodrosberhanu.com-FF5733?style=for-the-badge&logo=firefox&logoColor=white" />
+  </a>
+
+</div>
 
 
  
