@@ -2,7 +2,7 @@ name: Update README
 
 on:
   schedule:
-    - cron: "*/30 * * * *"   # runs every 30 minutes
+    - cron: "*/30 * * * *"   # every 30 minutes
   workflow_dispatch:
   push:
     branches:
@@ -18,29 +18,22 @@ jobs:
       - uses: actions/checkout@v3
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
-      
+
+      # Step 1: Update README with timestamp
       - name: Update README with current date
         run: |
-          # Add a timestamp to your README to show it's being updated
           echo "" >> README.md
           echo "<!-- Last updated: $(date) -->" >> README.md
-      
+
+      # Step 2: Generate GitHub Metrics and commit automatically
       - name: Generate GitHub Metrics
         uses: lowlighter/metrics@latest
         with:
-          token: ${{ secrets.GITHUB_TOKEN }} # use METRICS_TOKEN if you want private repos included
+          token: ${{ secrets.GITHUB_TOKEN }} # or METRICS_TOKEN for private repos
           user: tediyo
           template: classic
           base: repositories
           plugin_repositories: yes
           filename: github-metrics.svg
-          output_action: commit
+          output_action: commit   # THIS makes metrics commit itself
           config_display_title: "📊 My Repository Stats"
-      
-      - name: Commit & Push changes
-        run: |
-          git config --local user.name "github-actions[bot]"
-          git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add README.md github-metrics.svg
-          git diff --staged --quiet || git commit -m "chore: update README and metrics"
-          git push origin main
