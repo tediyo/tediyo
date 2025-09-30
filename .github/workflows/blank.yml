@@ -11,10 +11,10 @@ on:
 jobs:
   update-readme:
   runs-on: ubuntu-latest
-    permissions:
-      contents: write  # Allow writing to repository
+  permissions:
+     contents: write  # Allow writing to repository
     
-    steps:
+     steps:
       - uses: actions/checkout@v3
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
@@ -27,8 +27,8 @@ jobs:
 
       # Step 2: Generate GitHub Metrics and commit automatically
       - name: Generate GitHub Metrics
-    uses: lowlighter/metrics@latest
-    with:
+   uses: lowlighter/metrics@latest
+   with:
       token: ${{ secrets.METRICS_TOKEN }}   # Classic PAT with repo + read:user
       user: tediyo
       template: classic
