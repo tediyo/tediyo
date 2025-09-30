@@ -164,9 +164,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=tediyo&theme=tokyonight&hide_border=true&stroke=0000&background=0D1117&ring=5BCDEC&fire=5BCDEC&currStreakNum=5BCDEC&sideNums=5BCDEC&currStreakLabel=5BCDEC&sideLabels=5BCDEC&dates=5BCDEC" />
 </div>
 
-<div align="center">
-  <img src="github-metrics.svg" alt="GitHub Metrics" />
-</div>
 
 
 <!-- <div align="center">
