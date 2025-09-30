@@ -29,11 +29,10 @@ jobs:
       - name: Generate GitHub Metrics
         uses: lowlighter/metrics@latest
         with:
-          token: ${{ secrets.METRICS_TOKEN }} # or METRICS_TOKEN for private repos
+          token: ${{ secrets.METRICS_TOKEN }} # must be Classic PAT
           user: tediyo
           template: classic
           base: repositories
           plugin_repositories: yes
           filename: github-metrics.svg
-          output_action: commit   # THIS makes metrics commit itself
-          config_display_title: "📊 My Repository Stats"
+          output_action: commit
