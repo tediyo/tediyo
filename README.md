@@ -167,9 +167,9 @@
 <!-- <div align="center">
   <img src="https://raw.githubusercontent.com/tediyo/tediyo/main/github-metrics.svg" alt="GitHub Metrics" />
 </div> -->
-<div align="center">
+<!-- <div align="center">
   <img src="https://raw.githubusercontent.com/tediyo/tediyo/main/github-metrics.svg" alt="GitHub Metrics" />
-</div>
+</div> -->
 
 
 <!-- <div align="center">
@@ -379,9 +379,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D4FF&center=true&vCenter=true&width=435&lines=Thanks+for+visiting!+%F0%9F%99%8F;Let's+connect+and+collaborate!;Happy+Coding!;Happy+Testing!+%F0%9F%8E%89" alt="Typing SVG" />
 </div>
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://raw.githubusercontent.com/tediyo/tediyo/main/github-metrics.svg" alt="GitHub Metrics" />
-</div>
+</div> -->
 
 
 <!-- Last updated: Tue Sep  9 10:52:44 UTC 2025 -->
