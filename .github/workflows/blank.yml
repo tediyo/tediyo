@@ -29,7 +29,7 @@ jobs:
       - name: Generate GitHub Metrics
         uses: lowlighter/metrics@latest
         with:
-          token: ${{ secrets.GITHUB_TOKEN }} # or METRICS_TOKEN for private repos
+          token: ${{ secrets.METRICS_TOKEN }} # or METRICS_TOKEN for private repos
           user: tediyo
           template: classic
           base: repositories
