@@ -377,8 +377,9 @@
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
-</div> 
+  <img src="https://raw.githubusercontent.com/tediyo/tediyo/main/github-metrics.svg" alt="GitHub Metrics" />
+</div>
+
 
 <!-- Last updated: Tue Sep  9 10:52:44 UTC 2025 -->
 
