@@ -1,8 +1,8 @@
-name: GitHub Repo Metrics
+name: GitHub Metrics
 
 on:
-  schedule: 
-    - cron: "0 * * * *" # Every hour
+  schedule:
+    - cron: "0 * * * *" # every hour
   workflow_dispatch:
 
 jobs:
@@ -12,11 +12,11 @@ jobs:
       - name: Generate metrics
         uses: lowlighter/metrics@latest
         with:
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: ${{ secrets.GITHUB_TOKEN }} # or METRICS_TOKEN if you want private repos
           user: tediyo
           template: classic
           base: repositories
           plugin_repositories: yes
-          config_timezone: Africa/Addis_Ababa
-          config_display: large
+          filename: github-metrics.svg
+          output_action: commit
           config_display_title: "📊 My Repository Stats"
