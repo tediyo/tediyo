@@ -162,7 +162,9 @@
  
 <div align="center">
   <!-- <img src="https://github-readme-stats.vercel.app/api?username=tediyo&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&custom_title=My%20GitHub%20Stats" /> -->
-  <img src="https://streak-stats.demolab.com/?user=tediyo&theme=tokyonight&hide_border=true&stroke=0000&background=0D1117&ring=5BCDEC&fire=5BCDEC&currStreakNum=5BCDEC&sideNums=5BCDEC&currStreakLabel=5BCDEC&sideLabels=5BCDEC&dates=5BCDEC" alt="GitHub Streak Stats" />
+<img src="https://streak-stats.demolab.com/?user=tediyo&theme=tokyonight&hide_border=true&stroke=0000&background=0D1117&ring=5BCDEC&fire=5BCDEC&currStreakNum=5BCDEC&sideNums=5BCDEC&currStreakLabel=5BCDEC&sideLabels=5BCDEC&dates=5BCDEC&v=2" alt="GitHub Streak Stats" />
+
+user=tediyo&theme=tokyonight&hide_border=true&stroke=0000&background=0D1117&ring=5BCDEC&fire=5BCDEC&currStreakNum=5BCDEC&sideNums=5BCDEC&currStreakLabel=5BCDEC&sideLabels=5BCDEC&dates=5BCDEC" alt="GitHub Streak Stats" />
 </div>
 
 <!-- <div align="center">
@@ -173,9 +175,9 @@
 </div> -->
 
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tediyo&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&custom_title=Most%20Used%20Languages&exclude=html,css,scss,markdown,json,yaml,xml,svg,tsx,jsx,less,sass,stylus,handlebars,ejs,htm,asp,aspx,php,blade" />
-</div>
+</div> -->
 
 ## 🏆 GitHub Trophies
 
