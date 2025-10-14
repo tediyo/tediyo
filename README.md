@@ -169,6 +169,21 @@
 
 </div>
 
+<div align="center">
+
+  <!-- 💡 GitHub Stats (Optional — uncomment if you want to show both stats and streak) -->
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=tediyo&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&custom_title=My%20GitHub%20Stats" /> -->
+
+  <!-- 🔥 GitHub Streak Stats (Vercel-hosted version — more stable than Heroku) -->
+  <img 
+    src="https://streak-stats.demolab.com?user=tediyo&theme=tokyonight&hide_border=true&stroke=0000&background=0D1117&ring=5BCDEC&fire=5BCDEC&currStreakNum=5BCDEC&sideNums=5BCDEC&currStreakLabel=5BCDEC&sideLabels=5BCDEC&dates=5BCDEC" 
+    alt="GitHub Streak" 
+  />
+
+</div>
+
+
+
 <!-- <div align="center">
   <img src="https://raw.githubusercontent.com/tediyo/tediyo/main/github-metrics.svg" alt="GitHub Metrics" />
 </div> -->
