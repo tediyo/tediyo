@@ -200,6 +200,13 @@
   />
 </div>
 
+<div align="center">
+  <img 
+    src="https://github-readme-streak-stats.vercel.app?user=tediyo&theme=tokyonight&v=1" 
+    alt="GitHub Streak" 
+    width="500"
+  />
+</div>
 
 <!-- New -->
 <div align="center">
