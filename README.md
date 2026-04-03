@@ -1,64 +1,5 @@
 <!-- Profile README -->
 
-<!-- Profile README -->
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Hello+%F0%9F%91%8B;This+is+Tewodros+Berhanu;Software+Engineer;Fullstack+%7C+Mobile+App+Dev;QA+Automation;Welcome!" alt="Typing SVG" />
-</div>
-
-<h1 align="center">Tewodros B.</h1>
-<h3 align="center">Full Stack | Mobile App Developer | QA Automation</h3>
-<h3 align="center">TypeScript | React | Next.js | React Native | Test Automation</h3>
-
-<div align="center">
-
-  <!-- Email -->
-  <a href="mailto:tewodrosberhanu19@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-
-  <!-- LinkedIn -->
-  <a href="https://linkedin.com/in/tewodros-berhanu-953750230/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-
-  <!-- Phone -->
-  <a href="tel:+251947087598">
-    <img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  </a>
-
-  <!-- Portfolio -->
-  <a href="https://tewodrosberhanu.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-tewodrosberhanu.com-FF5733?style=for-the-badge&logo=firefox&logoColor=white" />
-  </a>
-
-</div>
-
----
-
-## 🌟 About Me
-
-<div align="center">
-  <img src="https://github.com/tediyo/tediyo/blob/main/assets/coding.gif" width="300" height="200" alt="Coding Animation" />
-</div>
-
-- 🔭 **Currently working on:** Automated Testing System | ATS
-- 👯 **Recently completed:** Custom Ecommerce Platforms, Ride Hailing Applications | Fintech App
-- 📝 **Writing about:** Dev & QA on my blog
-- 📫 **Reach me at:** tewodrosberhanu19@gmail.com
-- ⚡ **Fun fact:** I love debugging + coding!
-
----
-
-## 🛠️ Tech Stack & Tools
-
-### 🌳 Full Stack Development (Horizontal Tree)
-
-```text
-Frontend ── TypeScript ── React ── Next.js
-Backend  ── Spring Boot ── Node.js ── NestJS
-Mobile   ── React Native
-
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Hello+%F0%9F%91%8B;This+is+Tewodros+Berhanu;Software+Engineer;Fullstack+%7C+Mobile+App+Dev;QA+Tester;Welcome!" alt="Typing SVG" />
 </div>
@@ -499,5 +440,3 @@ Mobile   ── React Native
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D4FF&center=true&vCenter=true&width=435&lines=Thanks+for+visiting!+%F0%9F%99%8F;Let's+connect+and+collaborate!;Happy+Coding!;Happy+Testing!+%F0%9F%8E%89" alt="Typing SVG" />
 </div>
-
-<!-- Last updated: Fri Apr  3 11:21:19 UTC 2026 -->
