@@ -7,7 +7,7 @@
 
 <h1 align="center">Tewodros B.</h1>
 <h3 align="center">Fullstack | Mobile App Developer | QA Automation</h3
-<h3 align="center">Typescript | React | Next | React Native | QA Automation</h3>
+
 
 
  <!-- New -->
