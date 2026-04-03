@@ -6,7 +6,7 @@
 
 
 <h1 align="center">Tewodros B.</h1>
-<h3 align="center">Fullstack | Mobile App Developer | QA Tester</h3>
+<h3 align="center">Fullstack | Mobile App Developer | QA Automation</h3>
 
 
  <!-- New -->
