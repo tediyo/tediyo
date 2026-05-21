@@ -48,7 +48,7 @@
 </div>
 
 - 🔭 **Currently working on:** Automated Testing System | ATS  
-- 👯 **Recently completed:** Custom Ecommerce Platforms , Ride hailing Applications | Fintech App     
+- 👯 **Recently completed:** Automation Testing Tools In bith web and mobile , Ride hailing Applications, Production ready flightradar app, Mobile Fintech App with local and global gateways    
 - 📝 **Writing about:** Dev & QA on my blog  
 - 📫 **Reach me at:** tewodrosberhanu19@gmail.com
 - ⚡ **Fun fact:** I love debugging  + coding! 
