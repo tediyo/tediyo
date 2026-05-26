@@ -43,7 +43,7 @@
 
 ## 🌟 About Me
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://github.com/tediyo/tediyo/blob/main/assets/coding.gif" width="300" height="200" alt="Coding Animation" />
 </div>
 
@@ -53,7 +53,7 @@
 - 📫 **Reach me at:** tewodrosberhanu19@gmail.com
 - ⚡ **Fun fact:** I love debugging  + coding! 
 
-----
+---- -->
 
 ## 🛠️ Tech Stack & Tools
 
