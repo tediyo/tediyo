@@ -171,6 +171,22 @@
 
 <!-- New Github  Streak-->
 
+  <img 
+    src="https://github-readme-streak-stats.vercel.app?user=tediyo&theme=tokyonight&hide_border=true&background=0D1117&ring=5BCDEC&fire=5BCDEC&currStreakNum=5BCDEC&sideNums=5BCDEC&currStreakLabel=5BCDEC&sideLabels=5BCDEC&dates=5BCDEC" 
+    alt="GitHub Streak" 
+    width="500"
+    height="250"
+  />
+
+
+<!-- <div align="center">
+  <img 
+    src="https://github-readme-streak-stats.vercel.app?user=tediyo&theme=tokyonight&v=1" 
+    alt="GitHub Streak" 
+    width="500"
+  />
+</div> -->
+
 <div align="center">
   <img
     src="https://streak-stats.demolab.com?user=tediyo&theme=tokyonight&hide_border=true&background=0D1117&ring=5BCDEC&fire=5BCDEC&currStreakNum=5BCDEC&sideNums=5BCDEC&currStreakLabel=5BCDEC&sideLabels=5BCDEC&dates=5BCDEC"
