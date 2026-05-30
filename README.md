@@ -181,7 +181,7 @@
   />
 </div> -->
 
-<div align="center">
+<!-- <div align="center">
   <img
     src="https://streak-stats.demolab.com?user=tediyo&theme=tokyonight&hide_border=true&background=0D1117&ring=5BCDEC&fire=5BCDEC&currStreakNum=5BCDEC&sideNums=5BCDEC&currStreakLabel=5BCDEC&sideLabels=5BCDEC&dates=5BCDEC"
     alt="GitHub Streak Stats"
@@ -197,7 +197,7 @@
     width="500"
     height="250"
   />
-</div> 
+</div> -->
 
 <!-- <div align="center">
   <img 
