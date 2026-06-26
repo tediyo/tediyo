@@ -1,19 +1,15 @@
 <div align="center">
 
 
-<img 
-src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00D4FF&center=true&vCenter=true&width=750&lines=Hi+%F0%9F%91%8B+I'm+Tewodros+Berhanu;Senior+Software+Engineer;Frontend+%7C+Mobile+%7C+QA+Automation;Building+Reliable+Digital+Products"
-/>
+
 
 
 <br/><br/>
 
 
-### 🚀 Software Engineer | Fullstack Developer | QA Automation Engineer
+### Software Developer | QA Automation Engineer
 
 
-Building scalable applications, modern user experiences,  
-and reliable software through development & automation testing.
 
 
 <br/><br/>
@@ -50,11 +46,7 @@ src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whats
 </a>
 
 
-<a href="https://github.com/tediyo">
-<img 
-src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
-/>
-</a>
+
 
 
 </div>
@@ -138,18 +130,3 @@ src="https://github-readme-streak-stats.herokuapp.com/?user=tediyo&theme=tokyoni
 <!-- Last updated: Fri Jun 26 07:26:19 UTC 2026 -->
 
 <!-- Last updated: Fri Jun 26 07:27:52 UTC 2026 -->
-
-        "React",
-        "Next.js",
-        "React Native",
-        "TypeScript",
-        "Laravel"
-    ],
-
-    philosophy:
-    "Build clean, scalable and reliable software"
-};
-
-<!-- Last updated: Fri Jun 26 07:44:25 UTC 2026 -->
-
-<!-- Last updated: Fri Jun 26 07:46:38 UTC 2026 -->
