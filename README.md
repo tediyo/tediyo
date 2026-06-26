@@ -60,7 +60,7 @@ src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whats
 ```javascript
 const developer = {
     name: "Tewodros Berhanu",
-    role: "Software Engineer",
+    role: "Senior Software Engineer | QA Automation Engineer",
     focus: [
         "Frontend Engineering",
         "Mobile Development",
