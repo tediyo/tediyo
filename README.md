@@ -1,10 +1,7 @@
 <div align="center">
 
-# 👋 Hi, I'm Tewodros Berhanu
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Tewodros+Berhanu;Senior+Software+Engineer;Frontend+%7C+Mobile+%7C+QA+Automation;Building+Reliable+Digital+Products"/>
 
-### Senior Software Engineer | Frontend | Mobile | QA Automation
-
-Building scalable web applications, mobile products and reliable testing systems.
 
 <br/>
 
@@ -25,126 +22,18 @@ Building scalable web applications, mobile products and reliable testing systems
 
 ---
 
-## 👨‍💻 About Me
-
-Software Engineer specializing in:
-
-- Modern frontend development with React, Next.js and TypeScript
-- Cross-platform mobile applications
-- Backend systems and API development
-- QA automation, API testing and performance testing
-
-I enjoy building products that are fast, scalable and reliable.
+# 👨‍💻 About Me
 
 
----
-
-# 🚀 Featured Projects
-
-
-## 🛒 E-commerce Platform
-
-Full-stack commerce application with authentication, payments and modern UI.
-
-**Stack**
-React • Node.js • MongoDB • Tailwind
-
-🔗 Live Demo  
-🔗 Repository
-
-
-
-## 🚗 Ride Hailing Platform
-
-Mobile application focused on real-time transportation experience.
-
-**Stack**
-
-React Native • APIs • Maps • Payments
-
-
-
-## 🧪 QA Automation Framework
-
-End-to-end testing framework covering:
-
-- UI automation
-- API testing
-- Regression testing
-- CI/CD pipelines
-
-Tools:
-
-Selenium • Playwright • Cypress • Appium • Postman
-
-
----
-
-# 🛠 Tech Stack
-
-
-### Frontend
-
-React  
-Next.js  
-Vue.js  
-TypeScript  
-Tailwind CSS
-
-
-### Mobile
-
-React Native
-
-
-### Backend
-
-Node.js  
-Laravel  
-PHP  
-MySQL  
-MongoDB
-
-
-### Testing
-
-Selenium  
-Playwright  
-Cypress  
-Appium  
-Postman  
-Newman  
-k6
-
-
-
----
-
-# 📊 GitHub Analytics
-
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.demolab.com?user=tediyo&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-
-
----
-
-# 🤝 Let's Connect
-
-
-LinkedIn  
-Portfolio  
-Email
-
-
-<div align="center">
-
-⭐ Thanks for visiting my profile
-
-</div>
-
-<!-- Last updated: Fri Jun 26 07:16:43 UTC 2026 -->
+```javascript
+const developer = {
+    name: "Tewodros Berhanu",
+    role: "Software Engineer",
+    focus: [
+        "Frontend Engineering",
+        "Mobile Development",
+        "QA Automation"
+    ],
+    mindset:
+    "Build clean, scalable and reliable software"
+};
