@@ -69,16 +69,16 @@ const developer = {
     mindset:
     "Build clean, scalable and reliable software"
 };
-# 🚀 Featured Projects
+
 
 ```
+# Featured Projects
 <div align="center">
 
 | Project | Technology | Links |
 |:---|:---|:---|
-| 🛒 **E-Commerce Platform** <br> Full-stack shopping platform with modern UI and payment flow | React <br> Node.js <br> MongoDB | 🌐 [Live Demo](https://thedron16.netlify.app) <br> 📂 [Repository](https://github.com/tediyo/ecommerce-platform) |
+| 🛒 🔍 **ATS - Automated Testing System** <br> Automated testing platform for performance scanning and web locator generation | Next.js <br> NestJS <br> Playwright <br> Supabase | 🌐 [Live Demo](https://ats.tewodrosberhanu.com) <br> 📂 [Repository](https://github.com/tediyo/ecommerce-platform) |
 | 📊 **Tracer Study System** <br> Graduate tracking and management system | Laravel <br> MySQL | 🌐 [Live Demo](https://tracerbdr.000webhostapp.com/admin) <br> 📂 [Repository](https://github.com/tediyo/tracer-study) |
-| 🎨 **Portfolio Website** <br> Personal developer portfolio | Next.js <br> Tailwind CSS | 🌐 [Live Demo](https://tediyo.github.io/portfolio) <br> 📂 [Repository](https://github.com/tediyo/portfolio) |
 | 🔍 **Lersha Testing Suite** <br> Functional, regression and automation testing | Selenium <br> Java | 📂 [Repository](https://github.com/tediyo/lersha-testing) |
 | 🤖 **QA Automation Framework** <br> End-to-end automation framework | Cypress <br> JavaScript | 📂 [Repository](https://github.com/tediyo/qa-automation-suite) |
 
