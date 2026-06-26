@@ -79,9 +79,6 @@ src="https://github-readme-streak-stats.herokuapp.com/?user=tediyo&theme=tokyoni
 
 <!-- Most Used Languages -->
 
-<img height="170"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=tediyo&layout=compact&theme=tokyonight&hide_border=true&custom_title=Most%20Used%20Languages"/>
-
 
 </div>
 
@@ -90,17 +87,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=tediyo&layou
 ---
 
 
-# 🏆 Achievements
 
-
-<div align="center">
-
-<img 
-src="https://github-profile-trophy.vercel.app/?username=tediyo&theme=tokyonight&no-frame=true&margin-w=15&row=2"
-/>
-
-
-</div>
 
 
 ---
