@@ -10,11 +10,6 @@
 ### Software Developer | QA Automation Engineer
 
 
-
-
-<br/><br/>
-
-
 <!-- Social Links -->
 
 
