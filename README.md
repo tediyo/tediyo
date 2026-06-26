@@ -62,24 +62,83 @@ src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&
 
 ---
 
-
 # 👨‍💻 About Me
 
 
 ```javascript
 const developer = {
-
     name: "Tewodros Berhanu",
-
-    role: "Senior Software Engineer",
-
-    expertise: [
+    role: "Software Engineer",
+    focus: [
         "Frontend Engineering",
         "Mobile Development",
         "QA Automation"
     ],
+    mindset:
+    "Build clean, scalable and reliable software"
+};
+# 🚀 Featured Projects
 
-    stack: [
+```
+<div align="center">
+
+| Project | Technology | Links |
+|:---|:---|:---|
+| 🛒 **E-Commerce Platform** <br> Full-stack shopping platform with modern UI and payment flow | React <br> Node.js <br> MongoDB | 🌐 [Live Demo](https://thedron16.netlify.app) <br> 📂 [Repository](https://github.com/tediyo/ecommerce-platform) |
+| 📊 **Tracer Study System** <br> Graduate tracking and management system | Laravel <br> MySQL | 🌐 [Live Demo](https://tracerbdr.000webhostapp.com/admin) <br> 📂 [Repository](https://github.com/tediyo/tracer-study) |
+| 🎨 **Portfolio Website** <br> Personal developer portfolio | Next.js <br> Tailwind CSS | 🌐 [Live Demo](https://tediyo.github.io/portfolio) <br> 📂 [Repository](https://github.com/tediyo/portfolio) |
+| 🔍 **Lersha Testing Suite** <br> Functional, regression and automation testing | Selenium <br> Java | 📂 [Repository](https://github.com/tediyo/lersha-testing) |
+| 🤖 **QA Automation Framework** <br> End-to-end automation framework | Cypress <br> JavaScript | 📂 [Repository](https://github.com/tediyo/qa-automation-suite) |
+
+</div>
+
+
+---
+
+
+# 📊 GitHub Analytics
+
+
+<div align="center">
+
+
+<!-- GitHub Stats -->
+
+<img height="170"
+src="https://github-readme-stats.vercel.app/api?username=tediyo&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&custom_title=GitHub%20Stats"/>
+
+
+
+<!-- GitHub Streak -->
+
+<img height="170"
+src="https://github-readme-streak-stats.herokuapp.com/?user=tediyo&theme=tokyonight&hide_border=true"/>
+
+
+
+<!-- Most Used Languages -->
+
+
+</div>
+
+
+
+---
+
+
+
+
+
+---
+
+<!-- Last updated: Fri Jun 26 07:24:53 UTC 2026 -->
+
+<!-- Last updated: Fri Jun 26 07:25:27 UTC 2026 -->
+
+<!-- Last updated: Fri Jun 26 07:26:19 UTC 2026 -->
+
+<!-- Last updated: Fri Jun 26 07:27:52 UTC 2026 -->
+
         "React",
         "Next.js",
         "React Native",
