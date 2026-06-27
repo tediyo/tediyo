@@ -53,7 +53,7 @@ src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whats
 
 
 ```javascript
-const developer = {
+const Teddy = {
     name: "Tewodros Berhanu",
     role: "Senior Software Engineer | QA Automation Engineer",
     focus: [
