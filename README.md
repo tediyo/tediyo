@@ -100,15 +100,15 @@ src="https://github-readme-stats.vercel.app/api?username=tediyo&show_icons=true&
 
 <!-- GitHub Streak -->
 
-<img height="170"
+<!-- <img height="170"
 src="https://github-readme-streak-stats.herokuapp.com/?user=tediyo&theme=tokyonight&hide_border=true"/>
 
 
 
-<!-- Most Used Languages -->
 
 
-</div>
+
+</div> -->
 
 
 
