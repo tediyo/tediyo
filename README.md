@@ -73,6 +73,7 @@ const profileDetail  = {
 | Project | Technology | Links |
 |:---|:---|:---|
 | 🛒 🔍 **ATS - Automated Testing System** <br> Automated testing platform for performance scanning and web locator generation | Next.js <br> NestJS <br> Playwright <br> Supabase | 🌐 [Live Demo](https://ats.tewodrosberhanu.com) <br> 📂 [Repository](https://github.com/tediyo/ecommerce-platform) |
+| 🛒 🔍 **ITCB - Intelligent Test Case Builder** <br> lets QA teams create test cases manually, generate them from SRS documents or AI prompts, organize them into suites and cycles, execute test runs, and export results to Excel or PDF reports and shows Traceability Matrix| Next.js <br> NestJS <br> Playwright <br> Supabase | 🌐 [Live Demo](https://ats.tewodrosberhanu.com) <br> 📂 [Repository](https://github.com/tediyo/ecommerce-platform) |
 | 📊 **Tracer Study System** <br> Graduate tracking and management system | Laravel <br> MySQL | 🌐 [Live Demo](https://tracerbdr.000webhostapp.com/admin) <br> 📂 [Repository](https://github.com/tediyo/tracer-study) |
 | 🔍 **Lersha Testing Suite** <br> Functional, regression and automation testing | Selenium <br> Java | 📂 [Repository](https://github.com/tediyo/lersha-testing) |
 | 🤖 **QA Automation Framework** <br> End-to-end automation framework | Cypress <br> JavaScript | 📂 [Repository](https://github.com/tediyo/qa-automation-suite) |
