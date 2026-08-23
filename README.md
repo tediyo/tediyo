@@ -3,9 +3,7 @@
 <br/><br/>
 
 ### Software Developer | QA Automation Engineer
-
 <!-- Social Links -->
-
 
 <a href="https://tewodrosberhanu.com">
 <img 
