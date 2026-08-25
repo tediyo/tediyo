@@ -1,7 +1,5 @@
 <div align="center">
 
-
-
 <br/><br/>
 
 ### Software Developer | QA Automation Engineer
