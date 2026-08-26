@@ -9,7 +9,6 @@ src="https://img.shields.io/badge/Portfolio-FF5733?style=for-the-badge&logo=fire
 />
 </a>
 
-
 <a href="mailto:tewodrosberhanu19@gmail.com">
 <img 
 src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
