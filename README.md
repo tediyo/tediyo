@@ -2,7 +2,7 @@
 <br/><br/>
 
 ### Software Developer | QA Automation Engineer
-<!-- Social Links -->
+
 <a href="https://tewodrosberhanu.com">
 <img 
 src="https://img.shields.io/badge/Portfolio-FF5733?style=for-the-badge&logo=firefox&logoColor=white"
