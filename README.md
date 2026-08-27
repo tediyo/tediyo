@@ -73,7 +73,6 @@ const profileDetail  = {
 
 ---
 
-
 # 📊 GitHub Analytics
 
 <div align="center">
