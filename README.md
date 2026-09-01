@@ -69,10 +69,10 @@ const profileDetail  = {
 
 # 📊 GitHub Analytics
 
- <div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=tediyo&theme=tokyo-night&hide_border=true&area=true&custom_title=My%20Contributions%20This%20Year&radius=16" />
 </div> 
-<div align="center">  
+<div align="center">  -->
 
 
 <!-- GitHub Stats -->
