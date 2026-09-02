@@ -1,6 +1,5 @@
 <div align="center">
 <br/><br/>
-
 ### Software Developer | QA Automation Engineer
 <a href="https://tewodrosberhanu.com">
 <img 
