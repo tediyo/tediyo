@@ -71,17 +71,15 @@ const profileDetail  = {
 <img
   src="./github-metrics.svg"
   alt="GitHub Analytics"
+  width="100%"
 />
+
+</div>
 
 </div>
 
 <br/>
 
-<img
-  height="170"
-  src="./profile/top-langs.svg"
-  alt="Top Languages"
-/>
 
 </div>
 
