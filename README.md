@@ -64,33 +64,15 @@ const profileDetail  = {
 
 # 📊 GitHub Analytics
 
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img
-  src="./github-metrics.svg"
-  alt="GitHub Analytics"
-  width="100%"
-/>
-
-</div>
-
-</div>
-
-<br/>
-
-
-</div>
 
  <!--<div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=tediyo&theme=tokyo-night&hide_border=true&area=true&custom_title=My%20Contributions%20This%20Year&radius=16" />
 </div>  -->
 <!-- GitHub Stats -->
-<img
+<!-- <img
   src="https://github-readme-activity-graph.vercel.app/graph?username=tediyo&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph"
   alt="GitHub Contribution Graph"
-/>
+/> -->
 <div align="center">  
 
 
