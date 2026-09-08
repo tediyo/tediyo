@@ -69,16 +69,11 @@ const profileDetail  = {
 <div align="center">
 
 <img
-  height="170"
-  src="./profile/stats.svg"
-  alt="GitHub Stats"
+  src="./github-metrics.svg"
+  alt="GitHub Analytics"
 />
 
-<img
-  height="170"
-  src="./profile/streak.svg"
-  alt="GitHub Streak"
-/>
+</div>
 
 <br/>
 
