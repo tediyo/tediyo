@@ -38,7 +38,6 @@ const profileDetail  = {
     "Build clean, scalable and reliable software"
 };
 
-
 ```
 # Featured Projects
 <div align="center">
@@ -52,7 +51,6 @@ const profileDetail  = {
 | 🤖 **QA Automation Framework** <br> End-to-end automation framework | Cypress <br> JavaScript | 📂 [Repository](https://github.com/tediyo/qa-automation-suite) |
 
 </div>
-
 
 ---
 
