@@ -51,7 +51,6 @@ const profileDetail  = {
 | 🤖 **QA Automation Framework** <br> End-to-end automation framework | Cypress <br> JavaScript | 📂 [Repository](https://github.com/tediyo/qa-automation-suite) |
 
 </div>
-
 ---
 
 # 📊 GitHub Analytics
