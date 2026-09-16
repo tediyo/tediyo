@@ -43,6 +43,7 @@ const profileDetail  = {
 # Featured Projects
 <div align="center">
 
+
 | Project | Technology | Links |
 |:---|:---|:---|
 | 🛒 🔍 **ATS - Automated Testing System** <br> Automated testing platform for performance scanning and web locator generation | Next.js <br> NestJS <br> Playwright <br> Supabase | 🌐 [Live Demo](https://ats.tewodrosberhanu.com) <br> 📂 [Repository](https://github.com/tediyo/ecommerce-platform) |
