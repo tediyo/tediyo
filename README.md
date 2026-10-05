@@ -53,6 +53,7 @@ const profileDetail  = {
 | 🔍 **Lersha Testing Suite** <br> Functional, regression and automation testing | Selenium <br> Java | 📂 [Repository](https://github.com/tediyo/lersha-testing) |
 | 🤖 **QA Automation Framework** <br> End-to-end automation framework | Cypress <br> JavaScript | 📂 [Repository](https://github.com/tediyo/qa-automation-suite) |
 
+
 </div>
 ---
 
