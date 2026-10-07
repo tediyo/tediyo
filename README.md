@@ -40,6 +40,8 @@ const profileDetail  = {
     "Build clean, scalable and reliable software"
 };
 
+
+
 ```
 # Featured Projects
 <div align="center">
