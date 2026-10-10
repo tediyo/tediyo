@@ -41,7 +41,6 @@ const profileDetail  = {
 };
 
 
-
 ```
 # Featured Projects
 <div align="center">
